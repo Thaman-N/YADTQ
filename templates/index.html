@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Queue Client</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        input[type="text"], input[type="number"], select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+        }
+        .result {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Job Queue Client</h1>
+
+        <!-- Form to Submit Job -->
+        <div class="form-group">
+            <label for="job_type">Select Job Type:</label>
+            <select id="job_type" name="job_type">
+                <option value="add">Addition (Add)</option>
+                <option value="multiply">Multiplication (Multiply)</option>
+                <option value="subtract">Subtraction (Subtract)</option>
+                <option value="divide">Division (Divide)</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="arg1">Argument 1:</label>
+            <input type="number" id="arg1" name="arg1" required>
+        </div>
+        <div class="form-group">
+            <label for="arg2">Argument 2:</label>
+            <input type="number" id="arg2" name="arg2" required>
+        </div>
+        <button id="submit_job_btn">Submit Job</button>
+
+        <div class="result" id="job_result">
+            <h3>Job Status</h3>
+            <label for="job_id">Enter Job ID to check status:</label>
+            <input type="text" id="job_id" name="job_id" required>
+            <button id="check_status_btn">Check Status</button>
+            <p id="status"></p>
+        </div>
+
+        <div id="job_id_display" class="result"></div>
+    </div>
+
+    <script>
+        // Submit job and display job_id
+        document.getElementById('submit_job_btn').onclick = function() {
+            var job_type = document.getElementById('job_type').value;
+            var arg1 = document.getElementById('arg1').value;
+            var arg2 = document.getElementById('arg2').value;
+
+            fetch('/submit_job', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded'
+                },
+                body: `job_type=${job_type}&arg1=${arg1}&arg2=${arg2}`
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('job_id_display').innerHTML = `<p>Job Submitted! Job ID: ${data.job_id}</p>`;
+            })
+            .catch(error => console.error('Error:', error));
+        };
+
+        // Check job status
+        document.getElementById('check_status_btn').onclick = function() {
+            var job_id = document.getElementById('job_id').value;
+
+            fetch(`/get_job_status?job_id=${job_id}`)
+                .then(response => response.json())
+                .then(data => {
+                    var status = `Status: ${data.status}`;
+                    if (data.result) {
+                        status += `<br>Result: ${data.result}`;
+                    }
+                    document.getElementById('status').innerHTML = status;
+                })
+                .catch(error => console.error('Error:', error));
+        };
+    </script>
+</body>
+</html>
