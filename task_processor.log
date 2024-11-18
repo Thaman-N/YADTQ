@@ -18,3 +18,592 @@
 2024-11-14 23:53:26,406 - INFO - Task Processor is now waiting for jobs...
 2024-11-14 23:53:31,478 - INFO - Received job 5521a5e0-dd70-4201-9efb-9dae627579e1 of type flaky_operation
 2024-11-14 23:53:31,479 - INFO - Job 5521a5e0-dd70-4201-9efb-9dae627579e1 of type flaky_operation completed successfully with result: 4.0
+2024-11-18 18:24:52,076 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:25:03,757 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:25:11,978 - INFO - Received job 4f615e21-ce10-4137-9ef2-9113108125c4 of type add
+2024-11-18 18:25:11,979 - INFO - Job 4f615e21-ce10-4137-9ef2-9113108125c4 of type add completed successfully with result: 3.0
+2024-11-18 18:28:33,069 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:28:36,744 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:28:45,207 - INFO - Received job 13df0970-fcc3-422d-8d42-c5e212ec544c of type {'job_id': '2107334c-4da3-43c6-8901-af1f8f400b8a', 'job_type': 'add', 'args': [1.0, 1.0], 'kwargs': {}}
+2024-11-18 18:28:45,207 - ERROR - Job 13df0970-fcc3-422d-8d42-c5e212ec544c failed: unhashable type: 'dict'
+2024-11-18 18:28:50,214 - ERROR - Job 13df0970-fcc3-422d-8d42-c5e212ec544c failed: unhashable type: 'dict'
+2024-11-18 18:29:00,225 - ERROR - Job 13df0970-fcc3-422d-8d42-c5e212ec544c failed: unhashable type: 'dict'
+2024-11-18 18:29:20,247 - ERROR - Job 13df0970-fcc3-422d-8d42-c5e212ec544c failed: unhashable type: 'dict'
+2024-11-18 18:29:39,035 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:29:41,241 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:29:45,273 - INFO - Received job 0747dbbc-0452-408b-b956-10046b4a135c of type add
+2024-11-18 18:29:45,274 - INFO - Job 0747dbbc-0452-408b-b956-10046b4a135c of type add completed successfully with result: 2.0
+2024-11-18 18:32:42,823 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:32:45,010 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:32:53,205 - INFO - Received job dbe656cd-5026-4bf3-8066-128eb6a6611a of type {'job_id': 'b562a2fe-e9e4-4cce-a115-e0e9b17cb510', 'job_type': 'add', 'args': [1.0, 1.0], 'kwargs': {}}
+2024-11-18 18:32:53,205 - ERROR - Job dbe656cd-5026-4bf3-8066-128eb6a6611a failed: unhashable type: 'dict'
+2024-11-18 18:32:58,212 - ERROR - Job dbe656cd-5026-4bf3-8066-128eb6a6611a failed: unhashable type: 'dict'
+2024-11-18 18:33:08,223 - ERROR - Job dbe656cd-5026-4bf3-8066-128eb6a6611a failed: unhashable type: 'dict'
+2024-11-18 18:33:28,245 - ERROR - Job dbe656cd-5026-4bf3-8066-128eb6a6611a failed: unhashable type: 'dict'
+2024-11-18 18:34:47,549 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:34:50,977 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:35:22,715 - INFO - Received job 948c9c3b-6b5a-486a-83b5-7bd00c4df90c of type {'job_id': 'ffc6392d-f2e3-43f7-a53a-129022121193', 'job_type': 'add', 'args': [1.0, 1.0], 'kwargs': {}}
+2024-11-18 18:35:22,715 - ERROR - Job 948c9c3b-6b5a-486a-83b5-7bd00c4df90c failed: unhashable type: 'dict'
+2024-11-18 18:35:27,720 - ERROR - Job 948c9c3b-6b5a-486a-83b5-7bd00c4df90c failed: unhashable type: 'dict'
+2024-11-18 18:35:37,732 - ERROR - Job 948c9c3b-6b5a-486a-83b5-7bd00c4df90c failed: unhashable type: 'dict'
+2024-11-18 18:37:22,885 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:37:25,575 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:37:37,364 - INFO - Received job cd242310-29a4-4ad0-a9b0-a037ff7f6408 of type add
+2024-11-18 18:37:37,365 - INFO - Job cd242310-29a4-4ad0-a9b0-a037ff7f6408 of type add completed successfully with result: 2.0
+2024-11-18 18:42:27,218 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:42:29,897 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:42:36,370 - INFO - Received job dbfc96a1-0b47-4fa9-a7f0-f259b5e9baca of type add
+2024-11-18 18:42:36,370 - INFO - Job dbfc96a1-0b47-4fa9-a7f0-f259b5e9baca of type add completed successfully with result: 2.0
+2024-11-18 18:45:56,244 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:45:59,376 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:46:08,301 - INFO - Received job 7c6d14da-d824-4fe9-88ac-7e71e4cdc7c4 of type add
+2024-11-18 18:46:08,302 - INFO - Job 7c6d14da-d824-4fe9-88ac-7e71e4cdc7c4 of type add completed successfully with result: 2.0
+2024-11-18 18:46:08,517 - INFO - Received job ef475b3e-e8ce-45aa-a872-5a25fa03078b of type add
+2024-11-18 18:46:08,518 - INFO - Job ef475b3e-e8ce-45aa-a872-5a25fa03078b of type add completed successfully with result: 2.0
+2024-11-18 18:46:09,048 - INFO - Received job dab730ac-62c3-46ce-ba36-8d5e050b7910 of type add
+2024-11-18 18:46:09,049 - INFO - Job dab730ac-62c3-46ce-ba36-8d5e050b7910 of type add completed successfully with result: 2.0
+2024-11-18 18:46:09,342 - INFO - Received job cc67fb4e-6c53-495c-96ac-2ef9f32e8f16 of type add
+2024-11-18 18:46:09,343 - INFO - Job cc67fb4e-6c53-495c-96ac-2ef9f32e8f16 of type add completed successfully with result: 2.0
+2024-11-18 18:47:55,396 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:47:58,754 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:48:05,702 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 18:48:05,702 - ERROR - Job test-job-001 failed: Unknown job type: slow_task
+2024-11-18 18:50:28,219 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:50:31,001 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:50:36,841 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 18:52:45,787 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:52:49,235 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:52:54,604 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 18:55:00,008 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:55:03,058 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 18:55:05,825 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 18:55:10,744 - ERROR - Job test-job-001 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 47, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 39, in slow_task
+    raise Exception(f"Simulated failure in job {job_id} at step {i+1}")
+Exception: Simulated failure in job test-job-001 at step 1
+
+2024-11-18 18:55:10,749 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 18:55:22,009 - ERROR - Job test-job-001 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 47, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 39, in slow_task
+    raise Exception(f"Simulated failure in job {job_id} at step {i+1}")
+Exception: Simulated failure in job test-job-001 at step 3
+
+2024-11-18 18:55:22,013 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 18:56:01,591 - ERROR - Job test-job-001 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 47, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 39, in slow_task
+    raise Exception(f"Simulated failure in job {job_id} at step {i+1}")
+Exception: Simulated failure in job test-job-001 at step 9
+
+2024-11-18 22:46:02,356 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 22:46:11,979 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 22:46:17,783 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 22:46:40,752 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 22:47:24,165 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 22:47:26,535 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 22:47:29,689 - ERROR - Job test-job-001 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 39, in slow_task
+    raise Exception(f"Simulated failure in job {job_id} at step {i+1}")
+Exception: Simulated failure in job test-job-001 at step 1
+
+2024-11-18 22:47:29,694 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 22:48:08,918 - INFO - Job test-job-001 of type slow_task completed successfully with result: Job test-job-001 completed successfully
+2024-11-18 22:52:38,349 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 22:52:41,017 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 22:52:43,210 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 22:52:51,736 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 22:53:07,835 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 22:53:48,690 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 22:53:51,274 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 22:53:53,534 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 22:54:02,162 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 22:54:17,842 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 22:54:23,603 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 22:54:30,914 - ERROR - Job test-job-001 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 39, in slow_task
+    raise Exception(f"Simulated failure in job {job_id} at step {i+1}")
+Exception: Simulated failure in job test-job-001 at step 2
+
+2024-11-18 22:54:30,919 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 22:56:06,435 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 22:56:08,563 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 22:56:10,004 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 22:56:14,982 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 22:57:56,810 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 22:58:00,912 - ERROR - Job test-job-001 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 39, in slow_task
+    raise Exception(f"Simulated failure in job {job_id} at step {i+1}")
+Exception: Simulated failure in job test-job-001 at step 1
+
+2024-11-18 22:58:00,917 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 22:58:26,444 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 22:58:40,854 - INFO - Job test-job-001 of type slow_task completed successfully with result: Job test-job-001 completed successfully
+2024-11-18 22:58:42,672 - ERROR - Job test-job-001 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 39, in slow_task
+    raise Exception(f"Simulated failure in job {job_id} at step {i+1}")
+Exception: Simulated failure in job test-job-001 at step 4
+
+2024-11-18 22:58:42,675 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 22:58:50,428 - ERROR - Job test-job-001 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 39, in slow_task
+    raise Exception(f"Simulated failure in job {job_id} at step {i+1}")
+Exception: Simulated failure in job test-job-001 at step 2
+
+2024-11-18 23:03:49,794 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 23:03:56,447 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 23:04:34,046 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 23:04:34,048 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 23:04:37,097 - ERROR - Job test-job-001 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 39, in slow_task
+    raise Exception(f"Simulated failure in job {job_id} at step {i+1}")
+Exception: Simulated failure in job test-job-001 at step 1
+
+2024-11-18 23:05:09,744 - ERROR - Job test-job-001 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 39, in slow_task
+    raise Exception(f"Simulated failure in job {job_id} at step {i+1}")
+Exception: Simulated failure in job test-job-001 at step 9
+
+2024-11-18 23:09:48,213 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 23:09:50,669 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 23:09:53,821 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 23:10:11,244 - INFO - Received job a04fb090-83f2-4316-a313-4bd3bba6078a of type flaky_operation
+2024-11-18 23:10:11,245 - INFO - Job a04fb090-83f2-4316-a313-4bd3bba6078a of type flaky_operation completed successfully with result: 3.0
+2024-11-18 23:10:22,207 - INFO - Received job 0f941182-300c-460d-9ce7-5752868c337f of type flaky_operation
+2024-11-18 23:10:22,207 - ERROR - Job 0f941182-300c-460d-9ce7-5752868c337f failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:10:22,208 - WARNING - Failed attempt 1: Random failure occurred!. Requeueing...
+2024-11-18 23:10:22,211 - INFO - Received job 0f941182-300c-460d-9ce7-5752868c337f of type flaky_operation
+2024-11-18 23:10:22,212 - INFO - Job 0f941182-300c-460d-9ce7-5752868c337f of type flaky_operation completed successfully with result: 3.0
+2024-11-18 23:10:31,516 - INFO - Received job 64f3b599-bca8-4d99-b751-7f10551864e3 of type flaky_operation
+2024-11-18 23:10:31,517 - INFO - Job 64f3b599-bca8-4d99-b751-7f10551864e3 of type flaky_operation completed successfully with result: 3.0
+2024-11-18 23:10:52,745 - INFO - Received job 4e4702fd-2361-40f2-b4e6-803b113a5954 of type flaky_operation
+2024-11-18 23:10:52,746 - ERROR - Job 4e4702fd-2361-40f2-b4e6-803b113a5954 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:10:52,746 - WARNING - Failed attempt 1: Random failure occurred!. Requeueing...
+2024-11-18 23:10:52,750 - INFO - Received job 4e4702fd-2361-40f2-b4e6-803b113a5954 of type flaky_operation
+2024-11-18 23:10:52,751 - ERROR - Job 4e4702fd-2361-40f2-b4e6-803b113a5954 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:10:52,751 - WARNING - Failed attempt 2: Random failure occurred!. Requeueing...
+2024-11-18 23:10:52,754 - INFO - Received job 4e4702fd-2361-40f2-b4e6-803b113a5954 of type flaky_operation
+2024-11-18 23:10:52,755 - INFO - Job 4e4702fd-2361-40f2-b4e6-803b113a5954 of type flaky_operation completed successfully with result: 3.0
+2024-11-18 23:10:52,964 - INFO - Received job e9e0e00e-ad41-43e1-a9f0-43609948d350 of type flaky_operation
+2024-11-18 23:10:52,965 - ERROR - Job e9e0e00e-ad41-43e1-a9f0-43609948d350 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:10:52,965 - WARNING - Failed attempt 1: Random failure occurred!. Requeueing...
+2024-11-18 23:10:52,967 - INFO - Received job e9e0e00e-ad41-43e1-a9f0-43609948d350 of type flaky_operation
+2024-11-18 23:10:52,967 - ERROR - Job e9e0e00e-ad41-43e1-a9f0-43609948d350 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:10:52,968 - WARNING - Failed attempt 2: Random failure occurred!. Requeueing...
+2024-11-18 23:10:52,970 - INFO - Received job e9e0e00e-ad41-43e1-a9f0-43609948d350 of type flaky_operation
+2024-11-18 23:10:52,971 - ERROR - Job e9e0e00e-ad41-43e1-a9f0-43609948d350 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:10:52,971 - WARNING - Failed attempt 3: Random failure occurred!. Requeueing...
+2024-11-18 23:10:52,975 - INFO - Received job e9e0e00e-ad41-43e1-a9f0-43609948d350 of type flaky_operation
+2024-11-18 23:10:52,975 - INFO - Job e9e0e00e-ad41-43e1-a9f0-43609948d350 of type flaky_operation completed successfully with result: 3.0
+2024-11-18 23:10:53,199 - INFO - Received job db74c97a-1433-4fb8-809a-9834b2361b9b of type flaky_operation
+2024-11-18 23:10:53,200 - ERROR - Job db74c97a-1433-4fb8-809a-9834b2361b9b failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:10:53,200 - WARNING - Failed attempt 1: Random failure occurred!. Requeueing...
+2024-11-18 23:10:53,203 - INFO - Received job db74c97a-1433-4fb8-809a-9834b2361b9b of type flaky_operation
+2024-11-18 23:10:53,203 - ERROR - Job db74c97a-1433-4fb8-809a-9834b2361b9b failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:10:53,204 - WARNING - Failed attempt 2: Random failure occurred!. Requeueing...
+2024-11-18 23:10:53,205 - INFO - Received job db74c97a-1433-4fb8-809a-9834b2361b9b of type flaky_operation
+2024-11-18 23:10:53,206 - ERROR - Job db74c97a-1433-4fb8-809a-9834b2361b9b failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:10:53,206 - WARNING - Failed attempt 3: Random failure occurred!. Requeueing...
+2024-11-18 23:10:53,208 - INFO - Received job db74c97a-1433-4fb8-809a-9834b2361b9b of type flaky_operation
+2024-11-18 23:10:53,208 - ERROR - Job db74c97a-1433-4fb8-809a-9834b2361b9b failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:10:53,209 - WARNING - Failed attempt 4: Random failure occurred!. Requeueing...
+2024-11-18 23:10:53,402 - INFO - Received job 83950d02-61a7-41b0-b6d4-89cb2e7f228b of type flaky_operation
+2024-11-18 23:10:53,402 - ERROR - Job 83950d02-61a7-41b0-b6d4-89cb2e7f228b failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:10:53,402 - WARNING - Failed attempt 1: Random failure occurred!. Requeueing...
+2024-11-18 23:10:53,405 - INFO - Received job 83950d02-61a7-41b0-b6d4-89cb2e7f228b of type flaky_operation
+2024-11-18 23:10:53,405 - INFO - Job 83950d02-61a7-41b0-b6d4-89cb2e7f228b of type flaky_operation completed successfully with result: 3.0
+2024-11-18 23:10:53,611 - INFO - Received job fde37cfe-b915-4404-ae8c-82b218624ea8 of type flaky_operation
+2024-11-18 23:10:53,612 - ERROR - Job fde37cfe-b915-4404-ae8c-82b218624ea8 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:10:53,612 - WARNING - Failed attempt 1: Random failure occurred!. Requeueing...
+2024-11-18 23:10:53,614 - INFO - Received job fde37cfe-b915-4404-ae8c-82b218624ea8 of type flaky_operation
+2024-11-18 23:10:53,614 - ERROR - Job fde37cfe-b915-4404-ae8c-82b218624ea8 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:10:53,614 - WARNING - Failed attempt 2: Random failure occurred!. Requeueing...
+2024-11-18 23:10:53,616 - INFO - Received job fde37cfe-b915-4404-ae8c-82b218624ea8 of type flaky_operation
+2024-11-18 23:10:53,617 - INFO - Job fde37cfe-b915-4404-ae8c-82b218624ea8 of type flaky_operation completed successfully with result: 3.0
+2024-11-18 23:11:27,387 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 23:11:35,531 - ERROR - Job test-job-001 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 39, in slow_task
+    raise Exception(f"Simulated failure in job {job_id} at step {i+1}")
+Exception: Simulated failure in job test-job-001 at step 2
+
+2024-11-18 23:11:35,531 - WARNING - Failed attempt 2: Simulated failure in job test-job-001 at step 2. Requeueing...
+2024-11-18 23:11:35,534 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 23:11:44,741 - ERROR - Job test-job-001 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 39, in slow_task
+    raise Exception(f"Simulated failure in job {job_id} at step {i+1}")
+Exception: Simulated failure in job test-job-001 at step 2
+
+2024-11-18 23:11:44,741 - WARNING - Failed attempt 3: Simulated failure in job test-job-001 at step 2. Requeueing...
+2024-11-18 23:11:44,744 - INFO - Received job test-job-001 of type slow_task
+2024-11-18 23:12:13,370 - ERROR - Job test-job-001 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 39, in slow_task
+    raise Exception(f"Simulated failure in job {job_id} at step {i+1}")
+Exception: Simulated failure in job test-job-001 at step 7
+
+2024-11-18 23:12:13,370 - WARNING - Failed attempt 4: Simulated failure in job test-job-001 at step 7. Requeueing...
+2024-11-18 23:21:00,732 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 23:21:02,306 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 23:21:03,430 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 23:21:16,926 - INFO - Received job 4dc3469d-dcfc-465d-bef8-940a973536a0 of type flaky_operation
+2024-11-18 23:21:16,926 - ERROR - Job 4dc3469d-dcfc-465d-bef8-940a973536a0 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:21:16,926 - WARNING - Failed attempt 1: Random failure occurred!. Requeueing...
+2024-11-18 23:21:16,930 - INFO - Received job 4dc3469d-dcfc-465d-bef8-940a973536a0 of type flaky_operation
+2024-11-18 23:21:16,931 - INFO - Job 4dc3469d-dcfc-465d-bef8-940a973536a0 of type flaky_operation completed successfully with result: 3.0
+2024-11-18 23:21:17,131 - INFO - Received job a807b3af-a2e0-45f1-9792-cab4a9ac49e5 of type flaky_operation
+2024-11-18 23:21:17,132 - ERROR - Job a807b3af-a2e0-45f1-9792-cab4a9ac49e5 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:21:17,132 - WARNING - Failed attempt 1: Random failure occurred!. Requeueing...
+2024-11-18 23:21:17,136 - INFO - Received job a807b3af-a2e0-45f1-9792-cab4a9ac49e5 of type flaky_operation
+2024-11-18 23:21:17,136 - ERROR - Job a807b3af-a2e0-45f1-9792-cab4a9ac49e5 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:21:17,136 - WARNING - Failed attempt 2: Random failure occurred!. Requeueing...
+2024-11-18 23:21:17,140 - INFO - Received job a807b3af-a2e0-45f1-9792-cab4a9ac49e5 of type flaky_operation
+2024-11-18 23:21:17,140 - ERROR - Job a807b3af-a2e0-45f1-9792-cab4a9ac49e5 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:21:17,140 - WARNING - Failed attempt 3: Random failure occurred!. Requeueing...
+2024-11-18 23:21:17,144 - INFO - Received job a807b3af-a2e0-45f1-9792-cab4a9ac49e5 of type flaky_operation
+2024-11-18 23:21:17,144 - INFO - Job a807b3af-a2e0-45f1-9792-cab4a9ac49e5 of type flaky_operation completed successfully with result: 3.0
+2024-11-18 23:21:17,334 - INFO - Received job db4265c7-5193-4d67-8d52-c2138c63687d of type flaky_operation
+2024-11-18 23:21:17,335 - ERROR - Job db4265c7-5193-4d67-8d52-c2138c63687d failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:21:17,335 - WARNING - Failed attempt 1: Random failure occurred!. Requeueing...
+2024-11-18 23:21:17,337 - INFO - Received job db4265c7-5193-4d67-8d52-c2138c63687d of type flaky_operation
+2024-11-18 23:21:17,338 - ERROR - Job db4265c7-5193-4d67-8d52-c2138c63687d failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:21:17,338 - WARNING - Failed attempt 2: Random failure occurred!. Requeueing...
+2024-11-18 23:21:17,340 - INFO - Received job db4265c7-5193-4d67-8d52-c2138c63687d of type flaky_operation
+2024-11-18 23:21:17,340 - ERROR - Job db4265c7-5193-4d67-8d52-c2138c63687d failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:21:17,340 - WARNING - Failed attempt 3: Random failure occurred!. Requeueing...
+2024-11-18 23:21:17,342 - INFO - Received job db4265c7-5193-4d67-8d52-c2138c63687d of type flaky_operation
+2024-11-18 23:21:17,342 - ERROR - Job db4265c7-5193-4d67-8d52-c2138c63687d failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:21:17,342 - WARNING - Failed attempt 4: Random failure occurred!. Requeueing...
+2024-11-18 23:21:17,344 - INFO - Received job db4265c7-5193-4d67-8d52-c2138c63687d of type flaky_operation
+2024-11-18 23:21:17,345 - INFO - Job db4265c7-5193-4d67-8d52-c2138c63687d of type flaky_operation completed successfully with result: 3.0
+2024-11-18 23:21:17,524 - INFO - Received job 945182d2-a1c6-4d6c-bb21-eb45e0a8007c of type flaky_operation
+2024-11-18 23:21:17,525 - INFO - Job 945182d2-a1c6-4d6c-bb21-eb45e0a8007c of type flaky_operation completed successfully with result: 3.0
+2024-11-18 23:21:17,713 - INFO - Received job fe8f6dd4-c82c-4377-8615-f42b9db79de0 of type flaky_operation
+2024-11-18 23:21:17,713 - ERROR - Job fe8f6dd4-c82c-4377-8615-f42b9db79de0 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:21:17,713 - WARNING - Failed attempt 1: Random failure occurred!. Requeueing...
+2024-11-18 23:21:17,716 - INFO - Received job fe8f6dd4-c82c-4377-8615-f42b9db79de0 of type flaky_operation
+2024-11-18 23:21:17,716 - ERROR - Job fe8f6dd4-c82c-4377-8615-f42b9db79de0 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:21:17,716 - WARNING - Failed attempt 2: Random failure occurred!. Requeueing...
+2024-11-18 23:21:17,719 - INFO - Received job fe8f6dd4-c82c-4377-8615-f42b9db79de0 of type flaky_operation
+2024-11-18 23:21:17,719 - ERROR - Job fe8f6dd4-c82c-4377-8615-f42b9db79de0 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:21:17,719 - WARNING - Failed attempt 3: Random failure occurred!. Requeueing...
+2024-11-18 23:21:17,721 - INFO - Received job fe8f6dd4-c82c-4377-8615-f42b9db79de0 of type flaky_operation
+2024-11-18 23:21:17,721 - INFO - Job fe8f6dd4-c82c-4377-8615-f42b9db79de0 of type flaky_operation completed successfully with result: 3.0
+2024-11-18 23:21:17,910 - INFO - Received job d07a47d3-bc5d-4696-898d-75b22bf85a5c of type flaky_operation
+2024-11-18 23:21:17,911 - ERROR - Job d07a47d3-bc5d-4696-898d-75b22bf85a5c failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:21:17,911 - WARNING - Failed attempt 1: Random failure occurred!. Requeueing...
+2024-11-18 23:21:17,914 - INFO - Received job d07a47d3-bc5d-4696-898d-75b22bf85a5c of type flaky_operation
+2024-11-18 23:21:17,914 - ERROR - Job d07a47d3-bc5d-4696-898d-75b22bf85a5c failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:21:17,914 - WARNING - Failed attempt 2: Random failure occurred!. Requeueing...
+2024-11-18 23:21:17,916 - INFO - Received job d07a47d3-bc5d-4696-898d-75b22bf85a5c of type flaky_operation
+2024-11-18 23:21:17,917 - ERROR - Job d07a47d3-bc5d-4696-898d-75b22bf85a5c failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:21:17,917 - WARNING - Failed attempt 3: Random failure occurred!. Requeueing...
+2024-11-18 23:21:17,918 - INFO - Received job d07a47d3-bc5d-4696-898d-75b22bf85a5c of type flaky_operation
+2024-11-18 23:21:17,919 - ERROR - Job d07a47d3-bc5d-4696-898d-75b22bf85a5c failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:21:17,919 - WARNING - Failed attempt 4: Random failure occurred!. Requeueing...
+2024-11-18 23:21:17,920 - INFO - Received job d07a47d3-bc5d-4696-898d-75b22bf85a5c of type flaky_operation
+2024-11-18 23:21:17,921 - INFO - Job d07a47d3-bc5d-4696-898d-75b22bf85a5c of type flaky_operation completed successfully with result: 3.0
+2024-11-18 23:21:18,116 - INFO - Received job bc02afc2-4341-4014-ac0a-ee056a2085a7 of type flaky_operation
+2024-11-18 23:21:18,116 - INFO - Job bc02afc2-4341-4014-ac0a-ee056a2085a7 of type flaky_operation completed successfully with result: 3.0
+2024-11-18 23:21:18,298 - INFO - Received job b3610659-838e-4662-be72-37c42811776d of type flaky_operation
+2024-11-18 23:21:18,299 - INFO - Job b3610659-838e-4662-be72-37c42811776d of type flaky_operation completed successfully with result: 3.0
+2024-11-18 23:21:30,700 - INFO - Received job f5aab26e-47bb-4266-80ca-d94bd35717c7 of type flaky_operation
+2024-11-18 23:21:30,701 - ERROR - Job f5aab26e-47bb-4266-80ca-d94bd35717c7 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:21:30,701 - WARNING - Failed attempt 1: Random failure occurred!. Requeueing...
+2024-11-18 23:21:30,704 - INFO - Received job f5aab26e-47bb-4266-80ca-d94bd35717c7 of type flaky_operation
+2024-11-18 23:21:30,704 - INFO - Job f5aab26e-47bb-4266-80ca-d94bd35717c7 of type flaky_operation completed successfully with result: 3.0
+2024-11-18 23:21:36,328 - INFO - Received job 334199ac-dd3c-47b2-87d6-836bee1673a2 of type flaky_operation
+2024-11-18 23:21:36,329 - ERROR - Job 334199ac-dd3c-47b2-87d6-836bee1673a2 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:21:36,329 - WARNING - Failed attempt 1: Random failure occurred!. Requeueing...
+2024-11-18 23:21:36,332 - INFO - Received job 334199ac-dd3c-47b2-87d6-836bee1673a2 of type flaky_operation
+2024-11-18 23:21:36,332 - ERROR - Job 334199ac-dd3c-47b2-87d6-836bee1673a2 failed: Traceback (most recent call last):
+  File "/home/thaman/Downloads/BigData/YADTQ/task_processor.py", line 51, in process_job
+    result = TASK_FUNCTIONS[job_type](*args, **kwargs)
+  File "/home/thaman/Downloads/BigData/YADTQ/task_functions.py", line 19, in flaky_operation
+    raise Exception("Random failure occurred!")
+Exception: Random failure occurred!
+
+2024-11-18 23:21:36,332 - WARNING - Failed attempt 2: Random failure occurred!. Requeueing...
+2024-11-18 23:21:36,335 - INFO - Received job 334199ac-dd3c-47b2-87d6-836bee1673a2 of type flaky_operation
+2024-11-18 23:21:36,336 - INFO - Job 334199ac-dd3c-47b2-87d6-836bee1673a2 of type flaky_operation completed successfully with result: 3.0
+2024-11-18 23:27:23,973 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 23:27:27,160 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 23:27:29,727 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 23:27:38,071 - INFO - Received job c39ba13e-266a-4ee5-8608-6a4a7ee1a463 of type add
+2024-11-18 23:27:38,072 - INFO - Job c39ba13e-266a-4ee5-8608-6a4a7ee1a463 of type add completed successfully with result: 3.0
+2024-11-18 23:27:38,291 - INFO - Received job 5c6d3fb6-3271-4441-b285-a2851b3b6813 of type add
+2024-11-18 23:27:38,292 - INFO - Job 5c6d3fb6-3271-4441-b285-a2851b3b6813 of type add completed successfully with result: 3.0
+2024-11-18 23:27:38,528 - INFO - Received job 3c52ea5a-94d2-4ba6-8b67-fd803b43c1bd of type add
+2024-11-18 23:27:38,529 - INFO - Job 3c52ea5a-94d2-4ba6-8b67-fd803b43c1bd of type add completed successfully with result: 3.0
+2024-11-18 23:27:38,782 - INFO - Received job 3a20ee88-5511-47cb-971b-1f77c02b1015 of type add
+2024-11-18 23:27:38,783 - INFO - Job 3a20ee88-5511-47cb-971b-1f77c02b1015 of type add completed successfully with result: 3.0
+2024-11-18 23:27:39,031 - INFO - Received job e1f5ad53-364e-4ae1-9f12-85b9358c45d1 of type add
+2024-11-18 23:27:39,032 - INFO - Job e1f5ad53-364e-4ae1-9f12-85b9358c45d1 of type add completed successfully with result: 3.0
+2024-11-18 23:27:39,283 - INFO - Received job f8ad6155-38ad-4636-8d30-aa4e0b7989dc of type add
+2024-11-18 23:27:39,283 - INFO - Job f8ad6155-38ad-4636-8d30-aa4e0b7989dc of type add completed successfully with result: 3.0
+2024-11-18 23:27:39,549 - INFO - Received job 2224512d-da88-4e94-bf46-e2b43ca8a004 of type add
+2024-11-18 23:27:39,550 - INFO - Job 2224512d-da88-4e94-bf46-e2b43ca8a004 of type add completed successfully with result: 3.0
+2024-11-18 23:27:39,783 - INFO - Received job 45f0b4ec-650a-4d20-b30d-be4e2199d3f9 of type add
+2024-11-18 23:27:39,785 - INFO - Job 45f0b4ec-650a-4d20-b30d-be4e2199d3f9 of type add completed successfully with result: 3.0
+2024-11-18 23:30:11,692 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 23:30:14,239 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 23:30:18,710 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 23:30:25,876 - INFO - Received job 89828394-f23b-4354-aaa7-5bbb520f0160 of type add
+2024-11-18 23:30:25,877 - INFO - Job 89828394-f23b-4354-aaa7-5bbb520f0160 of type add completed successfully with result: 3.0
+2024-11-18 23:30:26,084 - INFO - Received job 14c13f36-15fe-428c-85b0-3c3bd57c9291 of type add
+2024-11-18 23:30:26,085 - INFO - Job 14c13f36-15fe-428c-85b0-3c3bd57c9291 of type add completed successfully with result: 3.0
+2024-11-18 23:30:26,309 - INFO - Received job c60941d0-0c12-4c2e-983e-8364aca05512 of type add
+2024-11-18 23:30:26,310 - INFO - Job c60941d0-0c12-4c2e-983e-8364aca05512 of type add completed successfully with result: 3.0
+2024-11-18 23:30:26,562 - INFO - Received job 04018f35-8e9e-4fb9-bf2d-51a33ba6360a of type add
+2024-11-18 23:30:26,563 - INFO - Job 04018f35-8e9e-4fb9-bf2d-51a33ba6360a of type add completed successfully with result: 3.0
+2024-11-18 23:30:26,811 - INFO - Received job caa55008-5b1c-46b0-8db2-618614620619 of type add
+2024-11-18 23:30:26,812 - INFO - Job caa55008-5b1c-46b0-8db2-618614620619 of type add completed successfully with result: 3.0
+2024-11-18 23:30:27,053 - INFO - Received job 2f930e89-0363-4ca7-85d6-baba2f52c290 of type add
+2024-11-18 23:30:27,053 - INFO - Job 2f930e89-0363-4ca7-85d6-baba2f52c290 of type add completed successfully with result: 3.0
+2024-11-18 23:30:27,315 - INFO - Received job 57e1d656-fc1e-41a5-bd0d-c5530b4d8d35 of type add
+2024-11-18 23:30:27,316 - INFO - Job 57e1d656-fc1e-41a5-bd0d-c5530b4d8d35 of type add completed successfully with result: 3.0
+2024-11-18 23:30:27,571 - INFO - Received job 71da09a9-606e-4863-ab68-6722446b6aa6 of type add
+2024-11-18 23:30:27,572 - INFO - Job 71da09a9-606e-4863-ab68-6722446b6aa6 of type add completed successfully with result: 3.0
+2024-11-18 23:54:24,570 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 23:54:27,296 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 23:54:29,681 - INFO - Task Processor is now waiting for jobs...
+2024-11-18 23:54:55,971 - INFO - Received job ee35ef08-fb1e-4416-9246-6f4fe20f76de of type add
+2024-11-18 23:54:55,971 - INFO - Job ee35ef08-fb1e-4416-9246-6f4fe20f76de of type add completed successfully with result: 2.0
+2024-11-18 23:54:56,196 - INFO - Received job 653429e8-ef77-492f-a043-8932496eecd0 of type add
+2024-11-18 23:54:56,197 - INFO - Job 653429e8-ef77-492f-a043-8932496eecd0 of type add completed successfully with result: 2.0
+2024-11-18 23:54:56,417 - INFO - Received job 006824cb-c529-4105-838e-141a14ba5df5 of type add
+2024-11-18 23:54:56,418 - INFO - Job 006824cb-c529-4105-838e-141a14ba5df5 of type add completed successfully with result: 2.0
+2024-11-18 23:54:56,643 - INFO - Received job ae5af15b-9bf3-4cf5-bf2d-1e98c8974212 of type add
+2024-11-18 23:54:56,644 - INFO - Job ae5af15b-9bf3-4cf5-bf2d-1e98c8974212 of type add completed successfully with result: 2.0
+2024-11-18 23:54:56,862 - INFO - Received job 4b4c2e3f-b9ff-43ab-8e3a-804cb23058f7 of type add
+2024-11-18 23:54:56,863 - INFO - Job 4b4c2e3f-b9ff-43ab-8e3a-804cb23058f7 of type add completed successfully with result: 2.0
+2024-11-18 23:54:57,085 - INFO - Received job 2cf82229-c255-40e6-868d-aea34fcf4666 of type add
+2024-11-18 23:54:57,086 - INFO - Job 2cf82229-c255-40e6-868d-aea34fcf4666 of type add completed successfully with result: 2.0
+2024-11-18 23:54:57,299 - INFO - Received job 8c4de81a-1f56-4832-8ebf-6718ffe94373 of type add
+2024-11-18 23:54:57,299 - INFO - Job 8c4de81a-1f56-4832-8ebf-6718ffe94373 of type add completed successfully with result: 2.0
+2024-11-18 23:55:05,995 - INFO - Received job 20bf56a0-0b62-477f-8337-44c101b0b174 of type add
+2024-11-18 23:55:05,996 - INFO - Job 20bf56a0-0b62-477f-8337-44c101b0b174 of type add completed successfully with result: 2.0
+2024-11-18 23:55:06,193 - INFO - Received job 8758bdef-7cdd-4f57-baef-a4db1fc26616 of type add
+2024-11-18 23:55:06,193 - INFO - Job 8758bdef-7cdd-4f57-baef-a4db1fc26616 of type add completed successfully with result: 2.0
+2024-11-18 23:55:06,356 - INFO - Received job 1ada82b5-109a-4bd6-aa71-96e6427ced83 of type add
+2024-11-18 23:55:06,356 - INFO - Job 1ada82b5-109a-4bd6-aa71-96e6427ced83 of type add completed successfully with result: 2.0
+2024-11-18 23:55:06,568 - INFO - Received job 88a9d0d3-b8a9-41ac-a394-369c9e96a89d of type add
+2024-11-18 23:55:06,569 - INFO - Job 88a9d0d3-b8a9-41ac-a394-369c9e96a89d of type add completed successfully with result: 2.0
+2024-11-19 00:32:06,717 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 00:32:09,356 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 00:32:12,296 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 00:32:19,846 - INFO - Received job ba0b530d-8384-4522-ae81-24e0d7da441f of type add
+2024-11-19 00:32:19,847 - INFO - Job ba0b530d-8384-4522-ae81-24e0d7da441f of type add completed successfully with result: 2.0
+2024-11-19 00:37:54,932 - INFO - Received job d5a071e7-50ff-49a8-8894-53253c3ced47 of type add
+2024-11-19 00:37:54,933 - INFO - Job d5a071e7-50ff-49a8-8894-53253c3ced47 of type add completed successfully with result: 2.0
+2024-11-19 00:44:47,421 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 00:44:49,217 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 00:44:50,771 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 00:45:05,812 - INFO - Received job f1dda234-2326-41fa-9129-42eac17f397a of type add
+2024-11-19 00:45:05,813 - INFO - Job f1dda234-2326-41fa-9129-42eac17f397a of type add completed successfully with result: 2.0
+2024-11-19 00:53:07,934 - INFO - Received job e6377685-1c47-40dd-928c-abb0407b6fc8 of type add
+2024-11-19 00:53:07,936 - INFO - Job e6377685-1c47-40dd-928c-abb0407b6fc8 of type add completed successfully with result: 2.0
+2024-11-19 00:58:09,076 - INFO - Received job ecb50043-8103-492a-8573-e42ec719750e of type add
+2024-11-19 00:58:09,077 - INFO - Job ecb50043-8103-492a-8573-e42ec719750e of type add completed successfully with result: 2.0
