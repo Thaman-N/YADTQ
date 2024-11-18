@@ -7,5 +7,7 @@ WORKER_TOPICS = [
     "worker_3_topic",
 ]
 MAX_RETRIES = 3
-RETRY_DELAY = 5
-RETRY_BACKOFF_FACTOR = 2 
+RETRY_DELAY = 3
+RETRY_BACKOFF_FACTOR = 2
+HEARTBEAT_INTERVAL = 30  # Seconds between heartbeats
+WORKER_TIMEOUT = 300     # 5 minutes before considering a job stuck

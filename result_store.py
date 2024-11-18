@@ -26,30 +26,34 @@ class ResultStore:
         try:
             data = self.redis.hgetall(job_id)
             if not data:
-                self.logger.warning(f"No job status found for job_id: {job_id}")
                 return {
-                    "status": "unknown",
-                    "result": None,
-                    "last_updated": 0,
-                    "retry_timestamp": None
+                    "status": "Unknown",
+                    "result": None
                 }
-            status = data.get(b'status', b'unknown').decode()
+            
+            status_mapping = {
+                'queued': 'Pending',
+                'in_progress': 'Processing',
+                'processing': 'Processing',
+                'success': 'Completed',
+                'completed': 'Completed',
+                'failed': 'Failed',
+                'retry_pending': 'Retrying'
+            }
+            
+            original_status = data.get(b'status', b'unknown').decode()
+            status = status_mapping.get(original_status, original_status.capitalize())
             result = data.get(b'result', b'').decode()
-            last_updated = float(data.get(b'last_updated', 0))
-            retry_timestamp = float(data.get(b'retry_timestamp', 0)) if b'retry_timestamp' in data else None
+            
             return {
                 "status": status,
-                "result": result,
-                "last_updated": last_updated,
-                "retry_timestamp": retry_timestamp
+                "result": result
             }
         except Exception as e:
-            self.logger.error(f"Error getting job status for job_id: {job_id}, Error: {e}")
+            self.logger.error(f"Error getting job status: {e}")
             return {
-                "status": "unknown",
-                "result": None,
-                "last_updated": 0,
-                "retry_timestamp": None
+                "status": "Error",
+                "result": None
             }
 
     def set_worker_status(self, worker_id, status):
