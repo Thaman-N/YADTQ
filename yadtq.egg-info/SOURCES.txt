@@ -1,0 +1,5 @@
+setup.py
+yadtq.egg-info/PKG-INFO
+yadtq.egg-info/SOURCES.txt
+yadtq.egg-info/dependency_links.txt
+yadtq.egg-info/top_level.txt
