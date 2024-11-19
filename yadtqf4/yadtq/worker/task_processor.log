@@ -1,0 +1,462 @@
+2024-11-19 17:02:10,620 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 17:02:18,748 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 17:02:20,005 - INFO - Shutting down worker...
+2024-11-19 17:02:22,253 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 17:02:28,379 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 17:02:40,804 - INFO - Received job 7a785fd3-d899-4da1-978e-19069e87383b of type add
+2024-11-19 17:02:45,810 - INFO - Job 7a785fd3-d899-4da1-978e-19069e87383b of type add completed successfully with result: 2.0
+2024-11-19 17:02:46,625 - INFO - Received job 7e61f3aa-85e5-479d-969e-5110e613a6de of type add
+2024-11-19 17:02:46,800 - INFO - Received job a88ce30e-f8d4-433b-93fa-c435e4498b61 of type add
+2024-11-19 17:02:51,632 - INFO - Job 7e61f3aa-85e5-479d-969e-5110e613a6de of type add completed successfully with result: 2.0
+2024-11-19 17:02:51,637 - INFO - Received job 0b315fcc-409f-4241-aaa7-460e7bb60e32 of type add
+2024-11-19 17:02:51,806 - INFO - Job a88ce30e-f8d4-433b-93fa-c435e4498b61 of type add completed successfully with result: 2.0
+2024-11-19 17:02:56,644 - INFO - Job 0b315fcc-409f-4241-aaa7-460e7bb60e32 of type add completed successfully with result: 2.0
+2024-11-19 17:02:59,548 - INFO - Received job 03df80ca-acfe-4705-850f-0af5f4028f7e of type add
+2024-11-19 17:02:59,726 - INFO - Received job df810c0f-8306-44ce-99c2-b9175303cbe0 of type add
+2024-11-19 17:03:04,556 - INFO - Job 03df80ca-acfe-4705-850f-0af5f4028f7e of type add completed successfully with result: 2.0
+2024-11-19 17:03:04,561 - INFO - Received job 4626337e-35f6-4e1d-a882-e6a6aa86efd0 of type add
+2024-11-19 17:03:04,733 - INFO - Job df810c0f-8306-44ce-99c2-b9175303cbe0 of type add completed successfully with result: 2.0
+2024-11-19 17:03:04,738 - INFO - Received job ddb68ee0-94a8-4c16-90a5-e8a7c75e925e of type add
+2024-11-19 17:03:09,569 - INFO - Job 4626337e-35f6-4e1d-a882-e6a6aa86efd0 of type add completed successfully with result: 2.0
+2024-11-19 17:03:09,571 - INFO - Received job dc2d3196-c68f-4575-8361-7bb9335a6e21 of type add
+2024-11-19 17:03:09,743 - INFO - Job ddb68ee0-94a8-4c16-90a5-e8a7c75e925e of type add completed successfully with result: 2.0
+2024-11-19 17:03:09,745 - INFO - Received job 06e2867b-db32-4129-ba26-f5e81713fcd5 of type add
+2024-11-19 17:03:14,576 - INFO - Job dc2d3196-c68f-4575-8361-7bb9335a6e21 of type add completed successfully with result: 2.0
+2024-11-19 17:03:14,578 - INFO - Received job 16eb3e26-46b3-47c4-a812-ec16dfdee9d7 of type add
+2024-11-19 17:03:14,754 - INFO - Job 06e2867b-db32-4129-ba26-f5e81713fcd5 of type add completed successfully with result: 2.0
+2024-11-19 17:03:14,756 - INFO - Received job cb0bed14-c9d2-4da5-a7dc-5c6d3cad3a0c of type add
+2024-11-19 17:03:19,586 - INFO - Job 16eb3e26-46b3-47c4-a812-ec16dfdee9d7 of type add completed successfully with result: 2.0
+2024-11-19 17:03:19,588 - INFO - Received job d3fa4361-8654-48ce-924d-f46d05b86958 of type add
+2024-11-19 17:03:19,765 - INFO - Job cb0bed14-c9d2-4da5-a7dc-5c6d3cad3a0c of type add completed successfully with result: 2.0
+2024-11-19 17:03:24,591 - INFO - Job d3fa4361-8654-48ce-924d-f46d05b86958 of type add completed successfully with result: 2.0
+2024-11-19 17:03:29,050 - INFO - Received job 95343160-2883-49dd-bf55-52126e6e5e00 of type add
+2024-11-19 17:03:29,225 - INFO - Received job bb6258d9-2f1f-4e2b-9133-5744b29a89f6 of type add
+2024-11-19 17:03:34,057 - INFO - Job 95343160-2883-49dd-bf55-52126e6e5e00 of type add completed successfully with result: 2.0
+2024-11-19 17:03:34,231 - INFO - Job bb6258d9-2f1f-4e2b-9133-5744b29a89f6 of type add completed successfully with result: 2.0
+2024-11-19 17:03:38,359 - INFO - Received job f85613a2-3541-4f43-8450-bb8add32a0c7 of type add
+2024-11-19 17:03:38,536 - INFO - Received job 6f4f9fce-85a5-48ec-aa1f-66c2e9d110ef of type add
+2024-11-19 17:03:43,366 - INFO - Job f85613a2-3541-4f43-8450-bb8add32a0c7 of type add completed successfully with result: 2.0
+2024-11-19 17:03:43,370 - INFO - Received job c24ba3a8-c729-4477-9f5a-e86b8ff443d3 of type add
+2024-11-19 17:03:43,543 - INFO - Job 6f4f9fce-85a5-48ec-aa1f-66c2e9d110ef of type add completed successfully with result: 2.0
+2024-11-19 17:03:43,548 - INFO - Received job f7027ea6-1bfc-4275-9278-54ab106fe65e of type add
+2024-11-19 17:03:45,758 - INFO - Shutting down worker...
+2024-11-19 17:03:48,378 - INFO - Job c24ba3a8-c729-4477-9f5a-e86b8ff443d3 of type add completed successfully with result: 2.0
+2024-11-19 17:03:48,556 - INFO - Job f7027ea6-1bfc-4275-9278-54ab106fe65e of type add completed successfully with result: 2.0
+2024-11-19 17:03:48,906 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 17:03:54,867 - INFO - Received job eab4d7ab-e360-46e0-ab3b-a11a6fe97c57 of type add
+2024-11-19 17:03:55,065 - INFO - Received job 99e008b9-1b6b-4bd2-a125-09c3c9fb7435 of type add
+2024-11-19 17:03:55,241 - INFO - Received job 88aaac9b-1cde-48f7-a503-c4cde359840d of type add
+2024-11-19 17:03:59,874 - INFO - Job eab4d7ab-e360-46e0-ab3b-a11a6fe97c57 of type add completed successfully with result: 2.0
+2024-11-19 17:03:59,878 - INFO - Received job bf781146-52f8-46e1-8745-7fb5db24e55e of type add
+2024-11-19 17:04:00,071 - INFO - Job 99e008b9-1b6b-4bd2-a125-09c3c9fb7435 of type add completed successfully with result: 2.0
+2024-11-19 17:04:00,076 - INFO - Received job 389dd329-5639-4f52-92de-54865450803f of type add
+2024-11-19 17:04:00,248 - INFO - Job 88aaac9b-1cde-48f7-a503-c4cde359840d of type add completed successfully with result: 2.0
+2024-11-19 17:04:00,251 - INFO - Received job 765ca5a7-1271-4699-bb0e-84a4fbb35a34 of type add
+2024-11-19 17:04:04,884 - INFO - Job bf781146-52f8-46e1-8745-7fb5db24e55e of type add completed successfully with result: 2.0
+2024-11-19 17:04:04,886 - INFO - Received job f0313d9e-d1e8-433c-8235-a5483e61b55c of type add
+2024-11-19 17:04:05,085 - INFO - Job 389dd329-5639-4f52-92de-54865450803f of type add completed successfully with result: 2.0
+2024-11-19 17:04:05,087 - INFO - Received job b7f085d4-2423-43e1-9e6f-548b7b68849f of type add
+2024-11-19 17:04:05,258 - INFO - Job 765ca5a7-1271-4699-bb0e-84a4fbb35a34 of type add completed successfully with result: 2.0
+2024-11-19 17:04:05,259 - INFO - Received job 505ca5b0-cdff-4286-a558-d65df53f34ff of type add
+2024-11-19 17:04:09,191 - INFO - Shutting down worker...
+2024-11-19 17:04:10,069 - INFO - Shutting down worker...
+2024-11-19 17:04:10,265 - INFO - Job 505ca5b0-cdff-4286-a558-d65df53f34ff of type add completed successfully with result: 2.0
+2024-11-19 17:04:10,266 - INFO - Received job 3cba6745-8b24-45f6-ac32-6ed4a213a41a of type add
+2024-11-19 17:04:11,263 - INFO - Shutting down worker...
+2024-11-19 17:22:47,379 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 17:22:49,805 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 17:22:52,124 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 17:23:27,056 - INFO - Received job 2dbaa89d-0fdd-4533-8d56-6c128fef9e76 of type add
+2024-11-19 17:23:27,253 - INFO - Received job c5eb7174-28b8-43a2-855a-59883fe69635 of type add
+2024-11-19 17:23:27,437 - INFO - Received job 4352be40-844f-47ba-94e0-83bd0fe25301 of type add
+2024-11-19 17:23:32,063 - INFO - Job 2dbaa89d-0fdd-4533-8d56-6c128fef9e76 of type add completed successfully with result: 3.0
+2024-11-19 17:23:32,067 - INFO - Received job 6f2352bd-96b3-451b-9070-17f52d37c4ad of type add
+2024-11-19 17:23:32,261 - INFO - Job c5eb7174-28b8-43a2-855a-59883fe69635 of type add completed successfully with result: 3.0
+2024-11-19 17:23:32,266 - INFO - Received job 7ec66d15-1392-4fee-849d-62fbe4d7eb9d of type add
+2024-11-19 17:23:32,443 - INFO - Job 4352be40-844f-47ba-94e0-83bd0fe25301 of type add completed successfully with result: 3.0
+2024-11-19 17:23:32,446 - INFO - Received job f8a296d5-8ca3-4e44-a8c9-900042ce7af0 of type add
+2024-11-19 17:23:37,075 - INFO - Job 6f2352bd-96b3-451b-9070-17f52d37c4ad of type add completed successfully with result: 3.0
+2024-11-19 17:23:37,274 - INFO - Job 7ec66d15-1392-4fee-849d-62fbe4d7eb9d of type add completed successfully with result: 3.0
+2024-11-19 17:23:37,452 - INFO - Job f8a296d5-8ca3-4e44-a8c9-900042ce7af0 of type add completed successfully with result: 3.0
+2024-11-19 17:23:39,525 - INFO - Received job 9dbd0f95-32f3-4919-8ec4-2a30a60a62ab of type add
+2024-11-19 17:23:39,722 - INFO - Received job 3493e0b5-c6cc-4642-8980-045ff034cdcf of type add
+2024-11-19 17:23:39,915 - INFO - Received job 0a481c5d-4981-4b4d-a593-3a155b09fcb6 of type add
+2024-11-19 17:23:42,686 - INFO - Shutting down worker...
+2024-11-19 17:23:44,531 - INFO - Job 9dbd0f95-32f3-4919-8ec4-2a30a60a62ab of type add completed successfully with result: 3.0
+2024-11-19 17:23:44,730 - INFO - Job 3493e0b5-c6cc-4642-8980-045ff034cdcf of type add completed successfully with result: 3.0
+2024-11-19 17:23:47,868 - INFO - Received job 2cc0ef01-266b-4df7-a1c2-af584f0b4c53 of type add
+2024-11-19 17:23:47,870 - INFO - Received job 557d4430-50b9-447e-8914-1757d797caf7 of type add
+2024-11-19 17:23:52,135 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 17:23:52,874 - INFO - Job 2cc0ef01-266b-4df7-a1c2-af584f0b4c53 of type add completed successfully with result: 2.0
+2024-11-19 17:23:52,876 - INFO - Job 557d4430-50b9-447e-8914-1757d797caf7 of type add completed successfully with result: 2.0
+2024-11-19 17:23:52,879 - INFO - Received job 7a785fd3-d899-4da1-978e-19069e87383b of type add
+2024-11-19 17:23:52,880 - INFO - Received job d0692270-73a9-4656-b66e-cb24666b7806 of type add
+2024-11-19 17:23:57,885 - INFO - Job d0692270-73a9-4656-b66e-cb24666b7806 of type add completed successfully with result: 3.0
+2024-11-19 17:23:57,886 - INFO - Job 7a785fd3-d899-4da1-978e-19069e87383b of type add completed successfully with result: 2.0
+2024-11-19 17:23:57,887 - INFO - Received job 765ca5a7-1271-4699-bb0e-84a4fbb35a34 of type add
+2024-11-19 17:23:57,888 - INFO - Received job d1a12ee8-e4e5-40ee-bf0c-b729e15f41c5 of type add
+2024-11-19 17:24:02,895 - INFO - Job 765ca5a7-1271-4699-bb0e-84a4fbb35a34 of type add completed successfully with result: 2.0
+2024-11-19 17:24:02,895 - INFO - Job d1a12ee8-e4e5-40ee-bf0c-b729e15f41c5 of type add completed successfully with result: 3.0
+2024-11-19 17:24:02,897 - INFO - Received job e191f893-2904-485a-a364-a88d7d744fb9 of type add
+2024-11-19 17:24:02,897 - INFO - Received job 18e226c3-3ca9-4ab1-8048-eb12f06897f9 of type add
+2024-11-19 17:24:07,903 - INFO - Job e191f893-2904-485a-a364-a88d7d744fb9 of type add completed successfully with result: 2.0
+2024-11-19 17:24:07,904 - INFO - Job 18e226c3-3ca9-4ab1-8048-eb12f06897f9 of type add completed successfully with result: 2.0
+2024-11-19 17:24:07,905 - INFO - Received job 7615008f-bb08-4c9e-8ada-6e09e85f75f2 of type add
+2024-11-19 17:24:07,905 - INFO - Received job 6f4f9fce-85a5-48ec-aa1f-66c2e9d110ef of type add
+2024-11-19 17:24:12,912 - INFO - Job 7615008f-bb08-4c9e-8ada-6e09e85f75f2 of type add completed successfully with result: 3.0
+2024-11-19 17:24:12,913 - INFO - Job 6f4f9fce-85a5-48ec-aa1f-66c2e9d110ef of type add completed successfully with result: 2.0
+2024-11-19 17:24:12,914 - INFO - Received job 54c0b8ae-e810-4e6d-8c9c-4f9f74326e72 of type add
+2024-11-19 17:24:12,915 - INFO - Received job 3c0f5411-b397-43d9-9fdc-661031249b2a of type add
+2024-11-19 17:24:16,567 - INFO - Shutting down worker...
+2024-11-19 17:24:17,923 - INFO - Job 54c0b8ae-e810-4e6d-8c9c-4f9f74326e72 of type add completed successfully with result: 3.0
+2024-11-19 17:24:17,923 - INFO - Job 3c0f5411-b397-43d9-9fdc-661031249b2a of type add completed successfully with result: 2.0
+2024-11-19 17:24:17,925 - INFO - Received job 1f641256-b0a3-4589-91d5-5b3ee199ca05 of type add
+2024-11-19 17:24:17,925 - INFO - Received job f7027ea6-1bfc-4275-9278-54ab106fe65e of type add
+2024-11-19 17:24:18,123 - INFO - Shutting down worker...
+2024-11-19 17:24:20,780 - INFO - Shutting down worker...
+2024-11-19 17:24:40,942 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 17:24:54,737 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 17:24:57,255 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 17:26:00,580 - INFO - Received job 3cc89b8f-daee-4978-88d8-e2a1b3274935 of type add
+2024-11-19 17:26:00,992 - INFO - Received job 5b1b510b-5618-4554-90c0-5c18a03eb954 of type add
+2024-11-19 17:26:05,477 - INFO - Received job 4bb5a857-dd73-454b-8e59-1211a917c956 of type add
+2024-11-19 17:26:05,586 - INFO - Job 3cc89b8f-daee-4978-88d8-e2a1b3274935 of type add completed successfully with result: 2.0
+2024-11-19 17:26:05,637 - INFO - Received job 594b8eb2-aa8c-41d9-a4e9-bff1263dd18b of type add
+2024-11-19 17:26:05,999 - INFO - Job 5b1b510b-5618-4554-90c0-5c18a03eb954 of type add completed successfully with result: 2.0
+2024-11-19 17:26:08,223 - INFO - Shutting down worker...
+2024-11-19 17:26:10,643 - INFO - Job 594b8eb2-aa8c-41d9-a4e9-bff1263dd18b of type add completed successfully with result: 2.0
+2024-11-19 17:26:18,084 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 17:26:49,082 - INFO - Shutting down worker...
+2024-11-19 17:26:50,466 - INFO - Shutting down worker...
+2024-11-19 17:26:55,737 - INFO - Received job 20fd1bf0-5ae7-4899-9bf7-4285b170e982 of type add
+2024-11-19 17:27:00,742 - INFO - Job 20fd1bf0-5ae7-4899-9bf7-4285b170e982 of type add completed successfully with result: 2.0
+2024-11-19 17:27:00,983 - INFO - Received job 328ce3e0-b932-4530-83a4-f2c140885c9b of type add
+2024-11-19 17:27:05,990 - INFO - Job 328ce3e0-b932-4530-83a4-f2c140885c9b of type add completed successfully with result: 2.0
+2024-11-19 17:27:05,995 - INFO - Received job c44f2c41-8579-4f81-a22c-3ef83589712b of type add
+2024-11-19 17:27:07,359 - INFO - Shutting down worker...
+2024-11-19 17:27:08,812 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 17:28:02,348 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 17:28:15,164 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 17:28:30,957 - INFO - Received job 4352be40-844f-47ba-94e0-83bd0fe25301 of type add
+2024-11-19 17:28:30,961 - INFO - Received job 7ec66d15-1392-4fee-849d-62fbe4d7eb9d of type add
+2024-11-19 17:28:30,964 - INFO - Received job 6f2352bd-96b3-451b-9070-17f52d37c4ad of type add
+2024-11-19 17:28:35,963 - INFO - Job 4352be40-844f-47ba-94e0-83bd0fe25301 of type add completed successfully with result: 3.0
+2024-11-19 17:28:35,966 - INFO - Received job f8a296d5-8ca3-4e44-a8c9-900042ce7af0 of type add
+2024-11-19 17:28:35,966 - INFO - Job 7ec66d15-1392-4fee-849d-62fbe4d7eb9d of type add completed successfully with result: 3.0
+2024-11-19 17:28:35,968 - INFO - Received job c5eb7174-28b8-43a2-855a-59883fe69635 of type add
+2024-11-19 17:28:35,970 - INFO - Job 6f2352bd-96b3-451b-9070-17f52d37c4ad of type add completed successfully with result: 3.0
+2024-11-19 17:28:35,972 - INFO - Received job 2dbaa89d-0fdd-4533-8d56-6c128fef9e76 of type add
+2024-11-19 17:28:40,969 - INFO - Job f8a296d5-8ca3-4e44-a8c9-900042ce7af0 of type add completed successfully with result: 3.0
+2024-11-19 17:28:40,975 - INFO - Job c5eb7174-28b8-43a2-855a-59883fe69635 of type add completed successfully with result: 3.0
+2024-11-19 17:28:40,978 - INFO - Job 2dbaa89d-0fdd-4533-8d56-6c128fef9e76 of type add completed successfully with result: 3.0
+2024-11-19 17:39:43,199 - INFO - Shutting down worker...
+2024-11-19 17:39:44,570 - INFO - Shutting down worker...
+2024-11-19 17:39:45,762 - INFO - Shutting down worker...
+2024-11-19 18:33:26,640 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 18:33:28,225 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 18:33:29,841 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 18:33:54,278 - INFO - Received job 22c3d3c2-5f13-49ee-8c57-4e6bd9ad531d of type add
+2024-11-19 18:33:54,471 - INFO - Received job 4b74b7e1-91d5-403f-88dd-f9c0e2268bac of type add
+2024-11-19 18:33:54,674 - INFO - Received job 4b2ea70f-3c70-4393-8429-d81608ed1b11 of type add
+2024-11-19 18:33:59,282 - INFO - Job 22c3d3c2-5f13-49ee-8c57-4e6bd9ad531d of type add completed successfully with result: 2.0
+2024-11-19 18:33:59,284 - INFO - Received job d9d0c536-e116-4f74-8104-ef337d33e8ad of type add
+2024-11-19 18:33:59,416 - INFO - Shutting down worker...
+2024-11-19 18:33:59,478 - INFO - Job 4b74b7e1-91d5-403f-88dd-f9c0e2268bac of type add completed successfully with result: 2.0
+2024-11-19 18:33:59,480 - INFO - Received job 471985f6-f6ea-4ff3-bf6a-e3ff09da4664 of type add
+2024-11-19 18:34:04,291 - INFO - Job d9d0c536-e116-4f74-8104-ef337d33e8ad of type add completed successfully with result: 2.0
+2024-11-19 18:34:04,291 - INFO - Received job 53988095-7530-4b0a-924f-8ba43261f25b of type add
+2024-11-19 18:34:04,486 - INFO - Job 471985f6-f6ea-4ff3-bf6a-e3ff09da4664 of type add completed successfully with result: 2.0
+2024-11-19 18:34:04,487 - INFO - Received job c3c24081-6423-4a7e-befe-d5df2000fe44 of type add
+2024-11-19 18:34:09,298 - INFO - Job 53988095-7530-4b0a-924f-8ba43261f25b of type add completed successfully with result: 2.0
+2024-11-19 18:34:09,299 - INFO - Received job 4a7e5af5-0891-496b-8b41-1536791bca36 of type add
+2024-11-19 18:34:09,493 - INFO - Job c3c24081-6423-4a7e-befe-d5df2000fe44 of type add completed successfully with result: 2.0
+2024-11-19 18:34:09,494 - INFO - Received job 5276c802-99ff-43df-b3c4-468d84e07509 of type add
+2024-11-19 18:34:14,304 - INFO - Job 4a7e5af5-0891-496b-8b41-1536791bca36 of type add completed successfully with result: 2.0
+2024-11-19 18:34:14,305 - INFO - Received job 523dc94f-d277-479a-847f-179f9db79b1f of type add
+2024-11-19 18:34:14,500 - INFO - Job 5276c802-99ff-43df-b3c4-468d84e07509 of type add completed successfully with result: 2.0
+2024-11-19 18:34:14,501 - INFO - Received job 364b48b8-6981-45ff-a8a1-a24309dd3ccb of type add
+2024-11-19 18:34:19,311 - INFO - Job 523dc94f-d277-479a-847f-179f9db79b1f of type add completed successfully with result: 2.0
+2024-11-19 18:34:19,507 - INFO - Job 364b48b8-6981-45ff-a8a1-a24309dd3ccb of type add completed successfully with result: 2.0
+2024-11-19 18:34:43,228 - INFO - Received job 4bb5a857-dd73-454b-8e59-1211a917c956 of type add
+2024-11-19 18:34:43,232 - INFO - Received job 20fd1bf0-5ae7-4899-9bf7-4285b170e982 of type add
+2024-11-19 18:34:48,234 - INFO - Job 4bb5a857-dd73-454b-8e59-1211a917c956 of type add completed successfully with result: 2.0
+2024-11-19 18:34:48,235 - INFO - Job 20fd1bf0-5ae7-4899-9bf7-4285b170e982 of type add completed successfully with result: 2.0
+2024-11-19 18:34:48,236 - INFO - Received job 051217d5-2f65-4257-b99d-a89ccfe31a30 of type add
+2024-11-19 18:34:48,237 - INFO - Received job 3cc89b8f-daee-4978-88d8-e2a1b3274935 of type add
+2024-11-19 18:34:53,243 - INFO - Job 051217d5-2f65-4257-b99d-a89ccfe31a30 of type add completed successfully with result: 2.0
+2024-11-19 18:34:53,243 - INFO - Job 3cc89b8f-daee-4978-88d8-e2a1b3274935 of type add completed successfully with result: 2.0
+2024-11-19 18:34:53,243 - INFO - Received job 5b1b510b-5618-4554-90c0-5c18a03eb954 of type add
+2024-11-19 18:34:53,244 - INFO - Received job b0de8acb-e9ce-4ce3-9c9d-7bb9bd8bc960 of type add
+2024-11-19 18:34:58,249 - INFO - Job 5b1b510b-5618-4554-90c0-5c18a03eb954 of type add completed successfully with result: 2.0
+2024-11-19 18:34:58,250 - INFO - Job b0de8acb-e9ce-4ce3-9c9d-7bb9bd8bc960 of type add completed successfully with result: 2.0
+2024-11-19 18:34:58,250 - INFO - Received job c44f2c41-8579-4f81-a22c-3ef83589712b of type add
+2024-11-19 18:34:58,251 - INFO - Received job 594b8eb2-aa8c-41d9-a4e9-bff1263dd18b of type add
+2024-11-19 18:35:03,256 - INFO - Job c44f2c41-8579-4f81-a22c-3ef83589712b of type add completed successfully with result: 2.0
+2024-11-19 18:35:03,256 - INFO - Job 594b8eb2-aa8c-41d9-a4e9-bff1263dd18b of type add completed successfully with result: 2.0
+2024-11-19 18:35:03,257 - INFO - Received job 0a481c5d-4981-4b4d-a593-3a155b09fcb6 of type add
+2024-11-19 18:35:03,257 - INFO - Received job bbc81beb-70ab-4b05-8271-159009af322f of type add
+2024-11-19 18:35:08,263 - INFO - Job bbc81beb-70ab-4b05-8271-159009af322f of type add completed successfully with result: 2.0
+2024-11-19 18:35:08,263 - INFO - Job 0a481c5d-4981-4b4d-a593-3a155b09fcb6 of type add completed successfully with result: 3.0
+2024-11-19 18:35:08,264 - INFO - Received job 3493e0b5-c6cc-4642-8980-045ff034cdcf of type add
+2024-11-19 18:35:08,264 - INFO - Received job 7b28c2b5-290e-4111-83cd-76fd62e42e7d of type add
+2024-11-19 18:35:13,270 - INFO - Job 3493e0b5-c6cc-4642-8980-045ff034cdcf of type add completed successfully with result: 3.0
+2024-11-19 18:35:13,271 - INFO - Received job 9dbd0f95-32f3-4919-8ec4-2a30a60a62ab of type add
+2024-11-19 18:35:13,271 - INFO - Job 7b28c2b5-290e-4111-83cd-76fd62e42e7d of type add completed successfully with result: 2.0
+2024-11-19 18:35:13,272 - INFO - Received job 328ce3e0-b932-4530-83a4-f2c140885c9b of type add
+2024-11-19 18:35:18,277 - INFO - Job 9dbd0f95-32f3-4919-8ec4-2a30a60a62ab of type add completed successfully with result: 3.0
+2024-11-19 18:35:18,278 - INFO - Job 328ce3e0-b932-4530-83a4-f2c140885c9b of type add completed successfully with result: 2.0
+2024-11-19 18:36:33,377 - INFO - Shutting down worker...
+2024-11-19 18:36:34,155 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 18:36:38,327 - INFO - Shutting down worker...
+2024-11-19 18:36:41,120 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 18:36:52,564 - INFO - Received job 35dbcc37-5a24-4c40-b29b-64438eb9ee6f of type add
+2024-11-19 18:36:52,755 - INFO - Received job 75fa50d5-cdf2-4956-a96e-3cdc52462f68 of type add
+2024-11-19 18:36:57,570 - INFO - Job 35dbcc37-5a24-4c40-b29b-64438eb9ee6f of type add completed successfully with result: 2.0
+2024-11-19 18:36:57,573 - INFO - Received job 76638006-cca4-417a-a8ce-2bc5bc12a9dd of type add
+2024-11-19 18:36:57,681 - INFO - Shutting down worker...
+2024-11-19 18:37:02,579 - INFO - Job 76638006-cca4-417a-a8ce-2bc5bc12a9dd of type add completed successfully with result: 2.0
+2024-11-19 18:37:02,579 - INFO - Received job c5bffee2-b606-48bb-baf8-35b6cb51a4a2 of type add
+2024-11-19 18:37:07,585 - INFO - Job c5bffee2-b606-48bb-baf8-35b6cb51a4a2 of type add completed successfully with result: 2.0
+2024-11-19 18:37:07,586 - INFO - Received job 68de657e-541c-447c-8ad6-e0922348400a of type add
+2024-11-19 18:37:12,592 - INFO - Job 68de657e-541c-447c-8ad6-e0922348400a of type add completed successfully with result: 2.0
+2024-11-19 18:37:12,593 - INFO - Received job f6ab5174-5d4f-4a81-a366-ec2c4819008c of type add
+2024-11-19 18:37:17,599 - INFO - Job f6ab5174-5d4f-4a81-a366-ec2c4819008c of type add completed successfully with result: 2.0
+2024-11-19 18:38:01,800 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 18:55:48,524 - INFO - Shutting down worker...
+2024-11-19 18:55:49,322 - INFO - Shutting down worker...
+2024-11-19 18:55:57,195 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 18:55:57,197 - WARNING - Worker math_worker appears to be dead. Redistributing its jobs.
+2024-11-19 18:55:59,150 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 18:56:00,423 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 18:56:13,985 - INFO - Received job b8108c00-917a-4d47-8d61-201a60eaa31e of type add
+2024-11-19 18:56:14,160 - INFO - Received job 8d65b551-18d7-4724-8d40-07cd388df3f1 of type add
+2024-11-19 18:56:14,348 - INFO - Received job 8e4dddc1-53ff-4b1d-bae9-638a0c1d9a85 of type add
+2024-11-19 18:56:18,992 - INFO - Job b8108c00-917a-4d47-8d61-201a60eaa31e of type add completed successfully with result: 2.0
+2024-11-19 18:56:18,995 - INFO - Received job ff79e200-9a4d-4910-9b1e-78e44cdba6ed of type add
+2024-11-19 18:56:19,166 - INFO - Job 8d65b551-18d7-4724-8d40-07cd388df3f1 of type add completed successfully with result: 2.0
+2024-11-19 18:56:19,169 - INFO - Received job 6881351f-d98a-4eba-a047-0acbb1fc970d of type add
+2024-11-19 18:56:19,354 - INFO - Job 8e4dddc1-53ff-4b1d-bae9-638a0c1d9a85 of type add completed successfully with result: 2.0
+2024-11-19 18:56:19,356 - INFO - Received job 88100fe6-77f8-40a9-b827-0da498fc7601 of type add
+2024-11-19 18:56:19,360 - INFO - Shutting down worker...
+2024-11-19 18:56:24,175 - INFO - Job 6881351f-d98a-4eba-a047-0acbb1fc970d of type add completed successfully with result: 2.0
+2024-11-19 18:56:24,176 - INFO - Received job 2937cb66-6e5f-403f-b357-38f6007eca6b of type add
+2024-11-19 18:56:24,363 - INFO - Job 88100fe6-77f8-40a9-b827-0da498fc7601 of type add completed successfully with result: 2.0
+2024-11-19 18:56:24,364 - INFO - Received job 9edaba53-bf2f-4290-ace6-a578c3027e9c of type add
+2024-11-19 18:56:29,183 - INFO - Job 2937cb66-6e5f-403f-b357-38f6007eca6b of type add completed successfully with result: 2.0
+2024-11-19 18:56:29,366 - INFO - Job 9edaba53-bf2f-4290-ace6-a578c3027e9c of type add completed successfully with result: 2.0
+2024-11-19 19:00:37,351 - INFO - Received job 4915e95e-2536-41b8-a44d-4bb8e1438f0c of type add
+2024-11-19 19:00:37,354 - INFO - Received job ff79e200-9a4d-4910-9b1e-78e44cdba6ed of type add
+2024-11-19 19:00:42,357 - INFO - Job 4915e95e-2536-41b8-a44d-4bb8e1438f0c of type add completed successfully with result: 2.0
+2024-11-19 19:00:42,360 - INFO - Received job 75fa50d5-cdf2-4956-a96e-3cdc52462f68 of type add
+2024-11-19 19:00:42,360 - INFO - Job ff79e200-9a4d-4910-9b1e-78e44cdba6ed of type add completed successfully with result: 2.0
+2024-11-19 19:00:42,362 - INFO - Received job 22c3d3c2-5f13-49ee-8c57-4e6bd9ad531d of type add
+2024-11-19 19:00:47,365 - INFO - Job 75fa50d5-cdf2-4956-a96e-3cdc52462f68 of type add completed successfully with result: 2.0
+2024-11-19 19:00:47,366 - INFO - Received job 364b48b8-6981-45ff-a8a1-a24309dd3ccb of type add
+2024-11-19 19:00:47,368 - INFO - Job 22c3d3c2-5f13-49ee-8c57-4e6bd9ad531d of type add completed successfully with result: 2.0
+2024-11-19 19:00:47,369 - INFO - Received job 4b2ea70f-3c70-4393-8429-d81608ed1b11 of type add
+2024-11-19 19:00:52,372 - INFO - Job 364b48b8-6981-45ff-a8a1-a24309dd3ccb of type add completed successfully with result: 2.0
+2024-11-19 19:00:52,373 - INFO - Received job 4a7e5af5-0891-496b-8b41-1536791bca36 of type add
+2024-11-19 19:00:52,374 - INFO - Job 4b2ea70f-3c70-4393-8429-d81608ed1b11 of type add completed successfully with result: 2.0
+2024-11-19 19:00:52,375 - INFO - Received job 381158f3-c086-4728-a29b-285598e2921f of type add
+2024-11-19 19:00:57,375 - INFO - Job 4a7e5af5-0891-496b-8b41-1536791bca36 of type add completed successfully with result: 2.0
+2024-11-19 19:00:57,377 - INFO - Received job 6881351f-d98a-4eba-a047-0acbb1fc970d of type add
+2024-11-19 19:00:57,382 - INFO - Job 381158f3-c086-4728-a29b-285598e2921f of type add completed successfully with result: 2.0
+2024-11-19 19:00:57,383 - INFO - Received job 88100fe6-77f8-40a9-b827-0da498fc7601 of type add
+2024-11-19 19:01:02,383 - INFO - Job 6881351f-d98a-4eba-a047-0acbb1fc970d of type add completed successfully with result: 2.0
+2024-11-19 19:01:02,384 - INFO - Received job d048a662-08a1-4447-b6c4-58cf51e206a2 of type add
+2024-11-19 19:01:02,388 - INFO - Job 88100fe6-77f8-40a9-b827-0da498fc7601 of type add completed successfully with result: 2.0
+2024-11-19 19:01:02,389 - INFO - Received job 2937cb66-6e5f-403f-b357-38f6007eca6b of type add
+2024-11-19 19:01:07,390 - INFO - Job d048a662-08a1-4447-b6c4-58cf51e206a2 of type add completed successfully with result: 2.0
+2024-11-19 19:01:07,390 - INFO - Received job 8d65b551-18d7-4724-8d40-07cd388df3f1 of type add
+2024-11-19 19:01:07,394 - INFO - Job 2937cb66-6e5f-403f-b357-38f6007eca6b of type add completed successfully with result: 2.0
+2024-11-19 19:01:07,395 - INFO - Received job 7cb260cd-d91f-4821-8482-820628673ba6 of type add
+2024-11-19 19:01:12,392 - INFO - Job 8d65b551-18d7-4724-8d40-07cd388df3f1 of type add completed successfully with result: 2.0
+2024-11-19 19:01:12,392 - INFO - Received job cd516f10-aac8-4747-bdb8-06af3fc4340a of type add
+2024-11-19 19:01:12,401 - INFO - Job 7cb260cd-d91f-4821-8482-820628673ba6 of type add completed successfully with result: 2.0
+2024-11-19 19:01:12,402 - INFO - Received job 68de657e-541c-447c-8ad6-e0922348400a of type add
+2024-11-19 19:01:17,397 - INFO - Job cd516f10-aac8-4747-bdb8-06af3fc4340a of type add completed successfully with result: 2.0
+2024-11-19 19:01:17,398 - INFO - Received job 9edaba53-bf2f-4290-ace6-a578c3027e9c of type add
+2024-11-19 19:01:17,408 - INFO - Job 68de657e-541c-447c-8ad6-e0922348400a of type add completed successfully with result: 2.0
+2024-11-19 19:01:17,409 - INFO - Received job 53988095-7530-4b0a-924f-8ba43261f25b of type add
+2024-11-19 19:01:22,404 - INFO - Job 9edaba53-bf2f-4290-ace6-a578c3027e9c of type add completed successfully with result: 2.0
+2024-11-19 19:01:22,405 - INFO - Received job b8108c00-917a-4d47-8d61-201a60eaa31e of type add
+2024-11-19 19:01:22,415 - INFO - Job 53988095-7530-4b0a-924f-8ba43261f25b of type add completed successfully with result: 2.0
+2024-11-19 19:01:22,416 - INFO - Received job 471985f6-f6ea-4ff3-bf6a-e3ff09da4664 of type add
+2024-11-19 19:01:27,409 - INFO - Job b8108c00-917a-4d47-8d61-201a60eaa31e of type add completed successfully with result: 2.0
+2024-11-19 19:01:27,410 - INFO - Received job 5276c802-99ff-43df-b3c4-468d84e07509 of type add
+2024-11-19 19:01:27,418 - INFO - Job 471985f6-f6ea-4ff3-bf6a-e3ff09da4664 of type add completed successfully with result: 2.0
+2024-11-19 19:01:27,419 - INFO - Received job 76638006-cca4-417a-a8ce-2bc5bc12a9dd of type add
+2024-11-19 19:01:32,416 - INFO - Job 5276c802-99ff-43df-b3c4-468d84e07509 of type add completed successfully with result: 2.0
+2024-11-19 19:01:32,417 - INFO - Received job f6ab5174-5d4f-4a81-a366-ec2c4819008c of type add
+2024-11-19 19:01:32,424 - INFO - Job 76638006-cca4-417a-a8ce-2bc5bc12a9dd of type add completed successfully with result: 2.0
+2024-11-19 19:01:32,425 - INFO - Received job 4b74b7e1-91d5-403f-88dd-f9c0e2268bac of type add
+2024-11-19 19:01:37,423 - INFO - Job f6ab5174-5d4f-4a81-a366-ec2c4819008c of type add completed successfully with result: 2.0
+2024-11-19 19:01:37,424 - INFO - Received job c3c24081-6423-4a7e-befe-d5df2000fe44 of type add
+2024-11-19 19:01:37,430 - INFO - Job 4b74b7e1-91d5-403f-88dd-f9c0e2268bac of type add completed successfully with result: 2.0
+2024-11-19 19:01:37,430 - INFO - Received job 35dbcc37-5a24-4c40-b29b-64438eb9ee6f of type add
+2024-11-19 19:01:42,431 - INFO - Job c3c24081-6423-4a7e-befe-d5df2000fe44 of type add completed successfully with result: 2.0
+2024-11-19 19:01:42,432 - INFO - Received job 8e4dddc1-53ff-4b1d-bae9-638a0c1d9a85 of type add
+2024-11-19 19:01:42,436 - INFO - Job 35dbcc37-5a24-4c40-b29b-64438eb9ee6f of type add completed successfully with result: 2.0
+2024-11-19 19:01:42,437 - INFO - Received job bf31a8f4-ef48-43be-bd5c-f3d6e9895e69 of type add
+2024-11-19 19:01:47,437 - INFO - Job 8e4dddc1-53ff-4b1d-bae9-638a0c1d9a85 of type add completed successfully with result: 2.0
+2024-11-19 19:01:47,438 - INFO - Received job f0092e94-e459-4e23-b3e1-f5c417f14a6f of type add
+2024-11-19 19:01:47,443 - INFO - Job bf31a8f4-ef48-43be-bd5c-f3d6e9895e69 of type add completed successfully with result: 2.0
+2024-11-19 19:01:47,444 - INFO - Received job d9d0c536-e116-4f74-8104-ef337d33e8ad of type add
+2024-11-19 19:01:52,444 - INFO - Job f0092e94-e459-4e23-b3e1-f5c417f14a6f of type add completed successfully with result: 2.0
+2024-11-19 19:01:52,445 - INFO - Received job 523dc94f-d277-479a-847f-179f9db79b1f of type add
+2024-11-19 19:01:52,450 - INFO - Job d9d0c536-e116-4f74-8104-ef337d33e8ad of type add completed successfully with result: 2.0
+2024-11-19 19:01:52,450 - INFO - Received job e0593747-7482-4589-82b9-b538e00b85d8 of type add
+2024-11-19 19:01:57,451 - INFO - Job 523dc94f-d277-479a-847f-179f9db79b1f of type add completed successfully with result: 2.0
+2024-11-19 19:01:57,452 - INFO - Received job 4cdb0f6a-0610-4083-b6be-8a3d2105904f of type add
+2024-11-19 19:01:57,456 - INFO - Job e0593747-7482-4589-82b9-b538e00b85d8 of type add completed successfully with result: 2.0
+2024-11-19 19:01:57,457 - INFO - Received job c5bffee2-b606-48bb-baf8-35b6cb51a4a2 of type add
+2024-11-19 19:02:02,458 - INFO - Job 4cdb0f6a-0610-4083-b6be-8a3d2105904f of type add completed successfully with result: 2.0
+2024-11-19 19:02:02,458 - INFO - Job c5bffee2-b606-48bb-baf8-35b6cb51a4a2 of type add completed successfully with result: 2.0
+2024-11-19 19:23:19,711 - INFO - Shutting down worker...
+2024-11-19 19:23:25,061 - INFO - Shutting down worker...
+2024-11-19 19:56:10,415 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 19:56:12,130 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 19:56:19,227 - INFO - Received job cab28ce6-ba8e-438b-a9de-c986968c8aeb of type add
+2024-11-19 19:56:19,415 - INFO - Received job c02b7a3d-338e-42ee-84f6-64b159229605 of type add
+2024-11-19 19:56:24,234 - INFO - Job cab28ce6-ba8e-438b-a9de-c986968c8aeb of type add completed successfully with result: 2.0
+2024-11-19 19:56:24,236 - INFO - Received job 074c1e9c-d08a-4ec6-910b-32f459286339 of type add
+2024-11-19 19:56:24,421 - INFO - Job c02b7a3d-338e-42ee-84f6-64b159229605 of type add completed successfully with result: 2.0
+2024-11-19 19:56:24,424 - INFO - Received job 93d4085e-6e8c-408c-a652-b66411c3e82e of type add
+2024-11-19 19:56:29,239 - INFO - Job 074c1e9c-d08a-4ec6-910b-32f459286339 of type add completed successfully with result: 2.0
+2024-11-19 19:56:29,241 - INFO - Received job 1bb4c772-e71e-4896-af25-910e447d0795 of type add
+2024-11-19 19:56:29,431 - INFO - Job 93d4085e-6e8c-408c-a652-b66411c3e82e of type add completed successfully with result: 2.0
+2024-11-19 19:56:29,432 - INFO - Received job e60e4a0c-51c1-4841-8160-4ec842a6c1fb of type add
+2024-11-19 19:56:34,243 - INFO - Job 1bb4c772-e71e-4896-af25-910e447d0795 of type add completed successfully with result: 2.0
+2024-11-19 19:56:34,245 - INFO - Received job 5ceed746-a8b8-4590-92bb-df9054f43c35 of type add
+2024-11-19 19:56:34,439 - INFO - Job e60e4a0c-51c1-4841-8160-4ec842a6c1fb of type add completed successfully with result: 2.0
+2024-11-19 19:56:34,440 - INFO - Received job 657882b6-f3e1-4e3c-b19c-6493c42d8d70 of type add
+2024-11-19 19:56:39,252 - INFO - Job 5ceed746-a8b8-4590-92bb-df9054f43c35 of type add completed successfully with result: 2.0
+2024-11-19 19:56:39,253 - INFO - Received job 85ffe452-7e97-44d0-a4cb-65778ff8c5c8 of type add
+2024-11-19 19:56:39,447 - INFO - Job 657882b6-f3e1-4e3c-b19c-6493c42d8d70 of type add completed successfully with result: 2.0
+2024-11-19 19:56:39,448 - INFO - Received job 3c9b8e44-f944-410d-91f9-66f48e7114a8 of type add
+2024-11-19 19:56:44,256 - INFO - Job 85ffe452-7e97-44d0-a4cb-65778ff8c5c8 of type add completed successfully with result: 2.0
+2024-11-19 19:56:44,257 - INFO - Received job a16b4289-f9fa-4c84-8db5-1ddf50ed3463 of type add
+2024-11-19 19:56:44,454 - INFO - Job 3c9b8e44-f944-410d-91f9-66f48e7114a8 of type add completed successfully with result: 2.0
+2024-11-19 19:56:49,264 - INFO - Job a16b4289-f9fa-4c84-8db5-1ddf50ed3463 of type add completed successfully with result: 2.0
+2024-11-19 19:57:19,428 - INFO - Shutting down worker...
+2024-11-19 19:57:20,017 - INFO - Shutting down worker...
+2024-11-19 19:58:16,092 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 19:58:17,759 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 19:58:29,324 - INFO - Received job f358c5fc-3550-4711-ac5f-201a45ac2b04 of type add
+2024-11-19 19:58:29,507 - INFO - Received job 4b61dd36-8182-4edd-8b1c-7736639bd476 of type add
+2024-11-19 19:58:34,331 - INFO - Job f358c5fc-3550-4711-ac5f-201a45ac2b04 of type add completed successfully with result: 2.0
+2024-11-19 19:58:34,333 - INFO - Received job 2e25b940-ae86-4a96-8762-ed78b6e0751c of type add
+2024-11-19 19:58:34,513 - INFO - Job 4b61dd36-8182-4edd-8b1c-7736639bd476 of type add completed successfully with result: 2.0
+2024-11-19 19:58:34,515 - INFO - Received job af47cd3e-d794-4ddd-86cb-532f677889ea of type add
+2024-11-19 19:58:35,424 - INFO - Shutting down worker...
+2024-11-19 19:58:37,024 - INFO - Shutting down worker...
+2024-11-19 19:58:42,050 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 19:58:44,563 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 19:58:48,573 - INFO - Received job c659e680-bbcb-4acf-9679-2f635a56a78e of type multiply
+2024-11-19 19:58:48,574 - INFO - Job c659e680-bbcb-4acf-9679-2f635a56a78e of type multiply completed successfully with result: 1.0
+2024-11-19 19:58:48,755 - INFO - Received job a78d4072-3c33-4b7b-acd5-4eea58b4c027 of type multiply
+2024-11-19 19:58:48,756 - INFO - Job a78d4072-3c33-4b7b-acd5-4eea58b4c027 of type multiply completed successfully with result: 1.0
+2024-11-19 19:58:48,961 - INFO - Received job c57306e1-378f-4b7a-a5ae-47dd3c57c1ee of type multiply
+2024-11-19 19:58:48,962 - INFO - Job c57306e1-378f-4b7a-a5ae-47dd3c57c1ee of type multiply completed successfully with result: 1.0
+2024-11-19 19:58:49,145 - INFO - Received job bf0b50ca-f309-48c2-a1a2-58f31c293095 of type multiply
+2024-11-19 19:58:49,146 - INFO - Job bf0b50ca-f309-48c2-a1a2-58f31c293095 of type multiply completed successfully with result: 1.0
+2024-11-19 19:58:49,323 - INFO - Received job f9847203-121c-490e-88bf-ceb4410195b7 of type multiply
+2024-11-19 19:58:49,324 - INFO - Job f9847203-121c-490e-88bf-ceb4410195b7 of type multiply completed successfully with result: 1.0
+2024-11-19 19:58:49,518 - INFO - Received job 49b6ad10-fc2b-4bb5-9c62-f9f0c04d6b2d of type multiply
+2024-11-19 19:58:49,519 - INFO - Job 49b6ad10-fc2b-4bb5-9c62-f9f0c04d6b2d of type multiply completed successfully with result: 1.0
+2024-11-19 19:59:37,983 - INFO - Received job 62a9ff68-39f1-4228-ad1b-ae231b84623e of type multiply
+2024-11-19 19:59:37,984 - INFO - Job 62a9ff68-39f1-4228-ad1b-ae231b84623e of type multiply completed successfully with result: 1.0
+2024-11-19 19:59:38,165 - INFO - Received job 12e63baf-662f-4319-97be-bf7111a15839 of type multiply
+2024-11-19 19:59:38,166 - INFO - Job 12e63baf-662f-4319-97be-bf7111a15839 of type multiply completed successfully with result: 1.0
+2024-11-19 19:59:38,362 - INFO - Received job 88f9b553-6d0b-450f-97e6-f7140635b18a of type multiply
+2024-11-19 19:59:38,363 - INFO - Job 88f9b553-6d0b-450f-97e6-f7140635b18a of type multiply completed successfully with result: 1.0
+2024-11-19 19:59:38,546 - INFO - Received job e6aa83c1-ed8f-4481-a021-90a97b2acb8f of type multiply
+2024-11-19 19:59:38,547 - INFO - Job e6aa83c1-ed8f-4481-a021-90a97b2acb8f of type multiply completed successfully with result: 1.0
+2024-11-19 19:59:38,707 - INFO - Received job a66b45de-8d08-4da4-aa47-6a22fa4e7efe of type multiply
+2024-11-19 19:59:38,708 - INFO - Job a66b45de-8d08-4da4-aa47-6a22fa4e7efe of type multiply completed successfully with result: 1.0
+2024-11-19 19:59:38,884 - INFO - Received job b0d012f0-248c-45cb-ab73-0f1730d10b4b of type multiply
+2024-11-19 19:59:38,886 - INFO - Job b0d012f0-248c-45cb-ab73-0f1730d10b4b of type multiply completed successfully with result: 1.0
+2024-11-19 19:59:39,064 - INFO - Received job 9a020ce3-7224-4c62-b808-33f93d354c76 of type multiply
+2024-11-19 19:59:39,065 - INFO - Job 9a020ce3-7224-4c62-b808-33f93d354c76 of type multiply completed successfully with result: 1.0
+2024-11-19 19:59:39,221 - INFO - Received job a86483f1-36a2-4e00-9c43-3e3f75ba2169 of type multiply
+2024-11-19 19:59:39,222 - INFO - Job a86483f1-36a2-4e00-9c43-3e3f75ba2169 of type multiply completed successfully with result: 1.0
+2024-11-19 19:59:39,394 - INFO - Received job 0123d261-9d7e-418a-b373-c5e33b860abc of type multiply
+2024-11-19 19:59:39,395 - INFO - Job 0123d261-9d7e-418a-b373-c5e33b860abc of type multiply completed successfully with result: 1.0
+2024-11-19 19:59:46,914 - INFO - Shutting down worker...
+2024-11-19 19:59:48,710 - INFO - Shutting down worker...
+2024-11-19 20:23:39,511 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 20:23:47,682 - INFO - Received job affd80df-bb1f-48c4-81be-fa0a0a89a096 of type subtract
+2024-11-19 20:24:02,693 - INFO - Job affd80df-bb1f-48c4-81be-fa0a0a89a096 of type subtract completed successfully with result: 0.0
+2024-11-19 20:24:02,695 - INFO - Received job 0395aef5-8c2e-4a33-a0c8-a701d1489ba7 of type subtract
+2024-11-19 20:24:17,712 - INFO - Job 0395aef5-8c2e-4a33-a0c8-a701d1489ba7 of type subtract completed successfully with result: 0.0
+2024-11-19 20:25:26,634 - INFO - Shutting down worker...
+2024-11-19 20:25:32,480 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 20:25:40,040 - INFO - Received job 01092231-61bd-481b-a2d8-d4b998985ea6 of type add
+2024-11-19 20:25:45,048 - INFO - Job 01092231-61bd-481b-a2d8-d4b998985ea6 of type add completed successfully with result: 2.0
+2024-11-19 20:25:45,052 - INFO - Received job 5ef6d2a8-eb9c-4b88-8941-7f13e0509f5e of type add
+2024-11-19 20:25:50,059 - INFO - Job 5ef6d2a8-eb9c-4b88-8941-7f13e0509f5e of type add completed successfully with result: 2.0
+2024-11-19 20:26:01,717 - INFO - Shutting down worker...
+2024-11-19 23:43:41,836 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 23:43:41,839 - WARNING - Worker worker_topic_2 appears to be dead. Redistributing its jobs.
+2024-11-19 23:43:41,959 - INFO - Received job 0e55324b-88fc-4bf2-a603-a2e0bd3b25c4 of type subtract
+2024-11-19 23:43:41,961 - INFO - Redistributed job 0e55324b-88fc-4bf2-a603-a2e0bd3b25c4 from dead worker worker_topic_2
+2024-11-19 23:43:41,971 - INFO - Redistributed job 2677c8da-0fb2-4861-9564-5c9e2d31a172 from dead worker worker_topic_2
+2024-11-19 23:43:41,974 - WARNING - Worker worker_topic_3 appears to be dead. Redistributing its jobs.
+2024-11-19 23:43:42,096 - INFO - Redistributed job 8575fa63-470a-40e4-b00a-327354d14ae6 from dead worker worker_topic_3
+2024-11-19 23:43:51,580 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 23:43:55,477 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 23:43:56,964 - INFO - Job 0e55324b-88fc-4bf2-a603-a2e0bd3b25c4 of type subtract completed successfully with result: 2.0
+2024-11-19 23:43:56,968 - INFO - Received job 2677c8da-0fb2-4861-9564-5c9e2d31a172 of type subtract
+2024-11-19 23:44:01,173 - INFO - Shutting down worker...
+2024-11-19 23:44:10,142 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 23:44:23,978 - INFO - Received job adc07e76-7ffc-410e-adbf-9db4b8d0ff5b of type subtract
+2024-11-19 23:44:24,125 - INFO - Received job 7e923444-cfe0-400f-afda-bf242529b5b9 of type subtract
+2024-11-19 23:44:24,266 - INFO - Received job cdd65d07-8426-4884-837c-fec40e34d823 of type subtract
+2024-11-19 23:44:28,798 - INFO - Shutting down worker...
+2024-11-19 23:44:39,130 - INFO - Job 7e923444-cfe0-400f-afda-bf242529b5b9 of type subtract completed successfully with result: 2.0
+2024-11-19 23:44:39,268 - INFO - Job cdd65d07-8426-4884-837c-fec40e34d823 of type subtract completed successfully with result: 2.0
+2024-11-19 23:44:50,710 - INFO - Received job adc07e76-7ffc-410e-adbf-9db4b8d0ff5b of type subtract
+2024-11-19 23:44:50,717 - INFO - Received job 2677c8da-0fb2-4861-9564-5c9e2d31a172 of type subtract
+2024-11-19 23:45:05,714 - INFO - Job adc07e76-7ffc-410e-adbf-9db4b8d0ff5b of type subtract completed successfully with result: 2.0
+2024-11-19 23:45:05,721 - INFO - Job 2677c8da-0fb2-4861-9564-5c9e2d31a172 of type subtract completed successfully with result: 2.0
+2024-11-19 23:45:56,552 - INFO - Shutting down worker...
+2024-11-19 23:46:01,796 - INFO - Shutting down worker...
+2024-11-19 23:46:11,645 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 23:46:14,197 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 23:46:15,890 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 23:46:27,353 - INFO - Received job 10422874-6c32-4c15-92a9-66712a30198c of type add
+2024-11-19 23:46:27,503 - INFO - Received job 2ceffef8-e4d0-4781-a334-507e70a775b1 of type add
+2024-11-19 23:46:27,853 - INFO - Received job 0995a018-4bee-458e-a3dc-0ed1fe756a80 of type add
+2024-11-19 23:46:32,358 - INFO - Job 10422874-6c32-4c15-92a9-66712a30198c of type add completed successfully with result: 12.0
+2024-11-19 23:46:32,363 - INFO - Received job 650e4c09-a0d3-4f6f-a1b8-cff855edccfa of type add
+2024-11-19 23:46:32,506 - INFO - Job 2ceffef8-e4d0-4781-a334-507e70a775b1 of type add completed successfully with result: 12.0
+2024-11-19 23:46:32,857 - INFO - Job 0995a018-4bee-458e-a3dc-0ed1fe756a80 of type add completed successfully with result: 12.0
+2024-11-19 23:46:37,366 - INFO - Job 650e4c09-a0d3-4f6f-a1b8-cff855edccfa of type add completed successfully with result: 12.0
+2024-11-19 23:46:46,303 - INFO - Shutting down worker...
+2024-11-19 23:46:51,480 - INFO - Received job f51304a5-ccdc-497a-ae03-fdbeda25da44 of type add
+2024-11-19 23:46:51,631 - INFO - Received job 9abc070c-bb02-41f1-a78e-0ecf217efe9e of type add
+2024-11-19 23:46:56,484 - INFO - Job f51304a5-ccdc-497a-ae03-fdbeda25da44 of type add completed successfully with result: 12.0
+2024-11-19 23:46:56,489 - INFO - Received job 63ee3d90-e93c-4f42-9159-3133611adb83 of type add
+2024-11-19 23:46:56,636 - INFO - Job 9abc070c-bb02-41f1-a78e-0ecf217efe9e of type add completed successfully with result: 12.0
+2024-11-19 23:47:01,492 - INFO - Job 63ee3d90-e93c-4f42-9159-3133611adb83 of type add completed successfully with result: 12.0
+2024-11-19 23:47:08,964 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 23:47:11,826 - INFO - Received job 926babfe-e3da-40a7-963b-eb3cb9bdab32 of type add
+2024-11-19 23:47:11,999 - INFO - Received job 8eb8eef3-f0cc-4c90-9752-5a46fbf0c9fa of type add
+2024-11-19 23:47:12,154 - INFO - Received job f100106f-b98b-4d82-b97e-6e8e47b7f481 of type add
+2024-11-19 23:47:16,829 - INFO - Job 926babfe-e3da-40a7-963b-eb3cb9bdab32 of type add completed successfully with result: 12.0
+2024-11-19 23:47:17,002 - INFO - Job 8eb8eef3-f0cc-4c90-9752-5a46fbf0c9fa of type add completed successfully with result: 12.0
+2024-11-19 23:47:17,157 - INFO - Job f100106f-b98b-4d82-b97e-6e8e47b7f481 of type add completed successfully with result: 12.0
+2024-11-19 23:47:30,045 - INFO - Shutting down worker...
+2024-11-19 23:47:32,866 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 23:47:33,699 - INFO - Shutting down worker...
+2024-11-19 23:47:36,247 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 23:47:37,257 - INFO - Shutting down worker...
+2024-11-19 23:47:39,637 - INFO - Task Processor is now waiting for jobs...
+2024-11-19 23:47:46,642 - INFO - Received job 43acc6d1-6f74-4c68-a691-4e4d7ada6984 of type subtract
+2024-11-19 23:47:46,800 - INFO - Received job a7df72d4-e5bb-4196-a15d-62827512c5f3 of type subtract
+2024-11-19 23:47:46,954 - INFO - Received job a2de64b2-4579-4338-9680-86df8d0d530e of type subtract
+2024-11-19 23:47:51,741 - INFO - Shutting down worker...
+2024-11-19 23:48:01,646 - INFO - Job 43acc6d1-6f74-4c68-a691-4e4d7ada6984 of type subtract completed successfully with result: -2.0
+2024-11-19 23:48:01,957 - INFO - Job a2de64b2-4579-4338-9680-86df8d0d530e of type subtract completed successfully with result: -2.0
+2024-11-19 23:48:06,218 - INFO - Received job a7df72d4-e5bb-4196-a15d-62827512c5f3 of type subtract
+2024-11-19 23:48:21,224 - INFO - Job a7df72d4-e5bb-4196-a15d-62827512c5f3 of type subtract completed successfully with result: -2.0
